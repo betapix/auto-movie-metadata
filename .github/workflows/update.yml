@@ -2,26 +2,31 @@ name: Auto Update Movies Metadata
 
 on:
   schedule:
-    - cron: "0 2 * * *" # har din 2 AM UTC
+    - cron: "0 2 * * *" # Runs every day at 2 AM UTC
   workflow_dispatch:
+
+permissions:
+  contents: write   # Required to allow pushing changes back to the repo
 
 jobs:
   update:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}  # Use the built-in GitHub token for authentication
       - name: Setup Python
         uses: actions/setup-python@v4
         with:
-          python-version: "3.x"
+          python-version: "3.x"  # Install the latest Python 3.x version
       - name: Install dependencies
-        run: pip install requests
+        run: pip install requests  # Install required Python packages
       - name: Run update script
-        run: python update_data.py
+        run: python update_data.py  # Execute the Python script to generate movies.json
       - name: Commit changes
         run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "actions@github.com"
-          git add movies.json
-          git commit -m "Daily update of movies metadata"
-          git push
+          git config --global user.name "github-actions"  # Set git username
+          git config --global user.email "actions@github.com"  # Set git email
+          git add movies.json  # Stage the updated movies.json file
+          git commit -m "Daily update of movies metadata" || echo "No changes to commit"  # Commit if there are changes
+          git push  # Push the changes back to the repository
