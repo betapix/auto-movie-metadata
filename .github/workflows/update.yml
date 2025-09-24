@@ -1,39 +1,40 @@
-name: Auto Update Movies Metadata
+name: Auto Movie Metadata Update
 
 on:
   schedule:
-    - cron: "0 2 * * *" # Runs every day at 2 AM UTC
-  workflow_dispatch:
-
-permissions:
-  contents: write   # Required to allow pushing changes back to the repo
+    # Ye cron schedule har din UTC time ke 2:00 AM pe run karega
+    - cron: '0 2 * * *'
+  workflow_dispatch: # Manual run option
 
 jobs:
-  update:
+  update-metadata:
     runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-        with:
-          token: ${{ secrets.GH_PAT }}  # Use Personal Access Token for authentication
 
-      - name: Setup Python
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: "3.x"  # Install the latest Python 3.x version
+          python-version: "3.11"
 
-      - name: Install dependencies
-        run: pip install requests  # Install required Python packages
-
-      - name: Run update script
-        env:
-          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}        # Inject API Key
-          TMDB_ACCESS_TOKEN: ${{ secrets.TMDB_ACCESS_TOKEN }}  # Inject Read Access Token
-        run: python update_data.py  # Execute the Python script to generate movies.json
-
-      - name: Commit changes
+      - name: Install Dependencies
         run: |
-          git config --global user.name "github-actions"  # Set git username
-          git config --global user.email "actions@github.com"  # Set git email
-          git add movies.json  # Stage the updated movies.json file
-          git commit -m "Daily update of movies metadata" || echo "No changes to commit"  # Commit if there are changes
-          git push  # Push the changes back to the repository
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Run Movie Metadata Script
+        env:
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+          TMDB_ACCESS_TOKEN: ${{ secrets.TMDB_ACCESS_TOKEN }}
+        run: |
+          python update_data.py
+
+      - name: Commit & Push Changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add movies.json
+          git commit -m "Automated movie metadata update"
+          git push
