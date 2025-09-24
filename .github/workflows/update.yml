@@ -1,0 +1,27 @@
+name: Auto Update Movies Metadata
+
+on:
+  schedule:
+    - cron: "0 2 * * *" # har din 2 AM UTC
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.x"
+      - name: Install dependencies
+        run: pip install requests
+      - name: Run update script
+        run: python update_data.py
+      - name: Commit changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add movies.json
+          git commit -m "Daily update of movies metadata"
+          git push
