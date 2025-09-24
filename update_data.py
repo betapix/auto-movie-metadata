@@ -21,14 +21,16 @@ To create a fully automated, developer-friendly movie metadata
 service for use in Flutter, web, and mobile applications.
 """
 
+import os
 import requests
 import json
 from datetime import datetime
 
-TMDB_API_KEY = "YOUR_TMDB_API_KEY"  # Free key le sakta hai TMDb se
+# 🔑 Securely get TMDb API Key from GitHub Secrets
+TMDB_API_KEY = os.getenv("TMDB_API_KEY")
 
 def fetch_tmdb():
-    """Fetch trending movies from TMDb."""
+    """Fetch trending movies from TMDb with full metadata."""
     try:
         url = f"https://api.themoviedb.org/3/trending/movie/week?api_key={TMDB_API_KEY}"
         res = requests.get(url).json()
@@ -36,14 +38,38 @@ def fetch_tmdb():
         for movie in res.get("results", []):
             release_date = movie.get("release_date")
             year = release_date[:4] if release_date else "N/A"
+
+            # Fetch extra details (budget, crew, trailers, etc.)
+            details_url = f"https://api.themoviedb.org/3/movie/{movie['id']}?api_key={TMDB_API_KEY}&append_to_response=credits,videos"
+            details = requests.get(details_url).json()
+
+            directors = [c["name"] for c in details.get("credits", {}).get("crew", []) if c.get("job") == "Director"]
+            writers = [c["name"] for c in details.get("credits", {}).get("crew", []) if c.get("department") == "Writing"]
+            cast = [
+                {"name": c["name"], "character": c["character"], 
+                 "profile": f"https://image.tmdb.org/t/p/w300{c['profile_path']}" if c.get("profile_path") else ""}
+                for c in details.get("credits", {}).get("cast", [])[:5]
+            ]
+
+            trailers = [
+                f"https://www.youtube.com/watch?v={v['key']}" 
+                for v in details.get("videos", {}).get("results", []) if v.get("site") == "YouTube"
+            ]
+
             movies.append({
                 "id": movie.get("id"),
                 "title": movie.get("title"),
                 "year": year,
                 "overview": movie.get("overview") or "",
-                "poster": "https://image.tmdb.org/t/p/w500" + (movie.get("poster_path") or ""),
+                "poster": f"https://image.tmdb.org/t/p/w500{movie.get('poster_path')}" if movie.get("poster_path") else "",
                 "rating": movie.get("vote_average") or None,
                 "genres": movie.get("genre_ids", []),
+                "budget": details.get("budget"),
+                "revenue": details.get("revenue"),
+                "directors": directors,
+                "writers": writers,
+                "cast": cast,
+                "trailers": trailers,
                 "source": "TMDb"
             })
         return movies

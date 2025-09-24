@@ -14,15 +14,22 @@ jobs:
     steps:
       - uses: actions/checkout@v3
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}  # Use the built-in GitHub token for authentication
+          token: ${{ secrets.GH_PAT }}  # Use Personal Access Token for authentication
+
       - name: Setup Python
         uses: actions/setup-python@v4
         with:
           python-version: "3.x"  # Install the latest Python 3.x version
+
       - name: Install dependencies
         run: pip install requests  # Install required Python packages
+
       - name: Run update script
+        env:
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}        # Inject API Key
+          TMDB_ACCESS_TOKEN: ${{ secrets.TMDB_ACCESS_TOKEN }}  # Inject Read Access Token
         run: python update_data.py  # Execute the Python script to generate movies.json
+
       - name: Commit changes
         run: |
           git config --global user.name "github-actions"  # Set git username
