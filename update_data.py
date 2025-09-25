@@ -452,25 +452,25 @@ def fetch_tvmaze():
                 print(f"[TVMaze Error] Failed to fetch page {page} after retries")
                 continue
 
-        shows = []
-        for show in res.json():
-            premiered = show.get("premiered")
-            year = premiered[:4] if premiered else "N/A"
-            shows.append({
-                "id": show.get("id"),
-                "title": show.get("name"),
-                "year": year,
-                "overview": show.get("summary", "").replace("<p>", "").replace("</p>", "") if show.get("summary") else "",
-                "poster": show.get("image", {}).get("medium") if show.get("image") else "",
-                "rating": show.get("rating", {}).get("average") if show.get("rating") else None,
-                "genres": show.get("genres", []),
-                "source": "TVMaze"
-            })
-            
+            shows = []
+            for show in res.json():
+                premiered = show.get("premiered")
+                year = premiered[:4] if premiered else "N/A"
+                shows.append({
+                    "id": show.get("id"),
+                    "title": show.get("name"),
+                    "year": year,
+                    "overview": show.get("summary", "").replace("<p>", "").replace("</p>", "") if show.get("summary") else "",
+                    "poster": show.get("image", {}).get("medium") if show.get("image") else "",
+                    "rating": show.get("rating", {}).get("average") if show.get("rating") else None,
+                    "genres": show.get("genres", []),
+                    "source": "TVMaze"
+                })
+
             all_shows.extend(shows)
             print(f"[INFO] TVMaze Page {page}: {len(shows)} shows fetched")
-            
-    except Exception as e:
+
+        except Exception as e:
             print(f"[TVMaze Page {page} Error] {e}")
     
     print(f"[INFO] TVMaze Total: {len(all_shows)} shows fetched")
