@@ -46,8 +46,9 @@ Example top-level structure:
 {
   "developer": {
     "name": "Abdul Mueed",
+    "github": "https://github.com/betapix",
     "contact": "am-abdulmueed3@gmail.com",
-    "website": "https://github.com/betapix"
+    "website": "https://am-abdulmueed.vercel.app"
   },
   "last_updated": "2025-09-25T00:00:00Z",
   "total_entries": 5707,
