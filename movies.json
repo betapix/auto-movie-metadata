@@ -4,7 +4,7 @@
     "contact": "am-abdulmueed3@gmail.com",
     "website": "https://github.com/betapix"
   },
-  "last_updated": "2025-09-24T17:23:09.363728+00:00",
+  "last_updated": "2025-09-25T03:01:34.040313+00:00",
   "movies": [
     {
       "id": 617126,
@@ -12,7 +12,7 @@
       "year": "2025",
       "overview": "Against the vibrant backdrop of a 1960s-inspired, retro-futuristic world, Marvel's First Family is forced to balance their roles as heroes with the strength of their family bond, while defending Earth from a ravenous space god called Galactus and his enigmatic Herald, Silver Surfer.",
       "poster": "https://image.tmdb.org/t/p/w500/x26MtUlwtWD26d0G0FXcppxCJio.jpg",
-      "rating": 7.174,
+      "rating": 7.186,
       "genres": [
         878,
         12
@@ -182,237 +182,6 @@
       "source": "TMDb"
     },
     {
-      "id": 1054867,
-      "title": "One Battle After Another",
-      "year": "2025",
-      "overview": "When their evil nemesis resurfaces after 16 years, a band of ex-revolutionaries reunite to rescue the daughter of one of their own.",
-      "poster": "https://image.tmdb.org/t/p/w500/m1jFoahEbeQXtx4zArT2FKdbNIj.jpg",
-      "rating": 7.3,
-      "genres": [
-        28,
-        80,
-        53
-      ],
-      "budget": 175000000,
-      "revenue": 0,
-      "directors": [
-        "Paul Thomas Anderson"
-      ],
-      "writers": [
-        "Paul Thomas Anderson"
-      ],
-      "cast": [
-        {
-          "name": "Leonardo DiCaprio",
-          "character": "Bob Ferguson",
-          "profile": "https://image.tmdb.org/t/p/w300/wo2hJpn04vbtmh0B9utCFdsQhxM.jpg"
-        },
-        {
-          "name": "Sean Penn",
-          "character": "Col. Steven J. Lockjaw",
-          "profile": "https://image.tmdb.org/t/p/w300/9glqNTVpFpdN1nFklKaHPUyCwR6.jpg"
-        },
-        {
-          "name": "Chase Infiniti",
-          "character": "Willa Ferguson",
-          "profile": "https://image.tmdb.org/t/p/w300/2goENGgg9OCz7qjMmm0HNxV9Kjj.jpg"
-        },
-        {
-          "name": "Benicio del Toro",
-          "character": "Sensei Sergio",
-          "profile": "https://image.tmdb.org/t/p/w300/cVh4UgCMu6aAkZ2BqymTLV86FzZ.jpg"
-        },
-        {
-          "name": "Regina Hall",
-          "character": "DeAndre",
-          "profile": "https://image.tmdb.org/t/p/w300/jiFZ4xNrvUUZLBHnJu71CvdN4kj.jpg"
-        },
-        {
-          "name": "Teyana Taylor",
-          "character": "Perfidia Beverly Hills",
-          "profile": "https://image.tmdb.org/t/p/w300/wVHbluUvjKl0NucSeuAhAJAr2oc.jpg"
-        },
-        {
-          "name": "Alana Haim",
-          "character": "Mae West",
-          "profile": "https://image.tmdb.org/t/p/w300/uOU4uueRxH5BYhzNjzPxJOxZStJ.jpg"
-        },
-        {
-          "name": "Wood Harris",
-          "character": "Laredo",
-          "profile": "https://image.tmdb.org/t/p/w300/v3puIl2KncqUd6amDyD1Y0crzkF.jpg"
-        },
-        {
-          "name": "Tony Goldwyn",
-          "character": "Virgil Throckmorton",
-          "profile": "https://image.tmdb.org/t/p/w300/ptm8SG4MYIMn0hnDl2YJ70Dwal5.jpg"
-        },
-        {
-          "name": "Shayna McHayle",
-          "character": "Junglepussy",
-          "profile": "https://image.tmdb.org/t/p/w300/548343QgpjThfYDxXEmtC0RvcH9.jpg"
-        }
-      ],
-      "trailers": [
-        "https://www.youtube.com/watch?v=elIcgwau344",
-        "https://www.youtube.com/watch?v=NO_fDqNdyuU",
-        "https://www.youtube.com/watch?v=JRXpqdnheN8",
-        "https://www.youtube.com/watch?v=gUYGznHe_1k",
-        "https://www.youtube.com/watch?v=wSedRcHTkN8",
-        "https://www.youtube.com/watch?v=3jCaNBWIXKQ",
-        "https://www.youtube.com/watch?v=p2dte6y0Lt8",
-        "https://www.youtube.com/watch?v=84Xddey4syc",
-        "https://www.youtube.com/watch?v=yJi7_YDufNQ",
-        "https://www.youtube.com/watch?v=dvUzllgFlTA",
-        "https://www.youtube.com/watch?v=yZhOghz2kJ0",
-        "https://www.youtube.com/watch?v=TUDduEOyMis",
-        "https://www.youtube.com/watch?v=Nd-lGk71Hh0",
-        "https://www.youtube.com/watch?v=VnrZIzuQw74",
-        "https://www.youtube.com/watch?v=Saq2IJ-XTo0",
-        "https://www.youtube.com/watch?v=9M7-IbRI8a8",
-        "https://www.youtube.com/watch?v=d2Yt7casDgI",
-        "https://www.youtube.com/watch?v=845YBOHYcPw",
-        "https://www.youtube.com/watch?v=W0-0lcaTU1E",
-        "https://www.youtube.com/watch?v=U_dvDy0ghWo",
-        "https://www.youtube.com/watch?v=QD5jczXmUEA",
-        "https://www.youtube.com/watch?v=HOX9tpFLS2o",
-        "https://www.youtube.com/watch?v=gr-ZW9Ejw1U",
-        "https://www.youtube.com/watch?v=xMWYKhrd918",
-        "https://www.youtube.com/watch?v=qdTCHJrJieQ",
-        "https://www.youtube.com/watch?v=KjPwkpHx7VE",
-        "https://www.youtube.com/watch?v=lOaUWlCCsRU",
-        "https://www.youtube.com/watch?v=ZrFNzpwpxY8",
-        "https://www.youtube.com/watch?v=ZUEUSQl40u4",
-        "https://www.youtube.com/watch?v=AJNXpbrFaKA",
-        "https://www.youtube.com/watch?v=-q1Js2CREdU",
-        "https://www.youtube.com/watch?v=W70VH_7B8uw",
-        "https://www.youtube.com/watch?v=XQ7HD01vAYs",
-        "https://www.youtube.com/watch?v=eUij1Xnlg_I",
-        "https://www.youtube.com/watch?v=9lGOW811SPE",
-        "https://www.youtube.com/watch?v=DG4nS53UCrU",
-        "https://www.youtube.com/watch?v=hQKstwnAzQw",
-        "https://www.youtube.com/watch?v=b7YAP9ACPLA",
-        "https://www.youtube.com/watch?v=C58Ce3u6hfw",
-        "https://www.youtube.com/watch?v=L2OjMbRVX8U",
-        "https://www.youtube.com/watch?v=Y8vkWOhg83I",
-        "https://www.youtube.com/watch?v=imtdhrkR17Y",
-        "https://www.youtube.com/watch?v=xhUdC2pVQ40",
-        "https://www.youtube.com/watch?v=ol176ektnk8",
-        "https://www.youtube.com/watch?v=QukQlsUTaEM",
-        "https://www.youtube.com/watch?v=_jDk6nM9U5w",
-        "https://www.youtube.com/watch?v=zUUlqKsGRI0",
-        "https://www.youtube.com/watch?v=BPy958x9RtE",
-        "https://www.youtube.com/watch?v=pypzxzPMGMk",
-        "https://www.youtube.com/watch?v=Bs3bhGEDZyM",
-        "https://www.youtube.com/watch?v=3OtCNUFcLXo",
-        "https://www.youtube.com/watch?v=SyBEvKXFhGQ",
-        "https://www.youtube.com/watch?v=qQF5_tMiBoc",
-        "https://www.youtube.com/watch?v=6OcUB2LFuHU",
-        "https://www.youtube.com/watch?v=8QDjj1Nzt1g",
-        "https://www.youtube.com/watch?v=kQUPdVxZNPk",
-        "https://www.youtube.com/watch?v=EDeHW1cvIkQ",
-        "https://www.youtube.com/watch?v=dmjCATafn2Q",
-        "https://www.youtube.com/watch?v=XETfXtXGP5k",
-        "https://www.youtube.com/watch?v=hg8AGTyYMBA",
-        "https://www.youtube.com/watch?v=9u-2yB8GJ-Q"
-      ],
-      "source": "TMDb"
-    },
-    {
-      "id": 1311031,
-      "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
-      "year": "2025",
-      "overview": "The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fight as the final battle against Muzan Kibutsuji begins.",
-      "poster": "https://image.tmdb.org/t/p/w500/sUsVimPdA1l162FvdBIlmKBlWHx.jpg",
-      "rating": 7.8,
-      "genres": [
-        16,
-        28,
-        14,
-        53
-      ],
-      "budget": 20000000,
-      "revenue": 569600000,
-      "directors": [
-        "Haruo Sotozaki"
-      ],
-      "writers": [
-        "Hikaru Kondô",
-        "Koyoharu Gotouge"
-      ],
-      "cast": [
-        {
-          "name": "Natsuki Hanae",
-          "character": "Tanjiro Kamado (voice)",
-          "profile": "https://image.tmdb.org/t/p/w300/alTb0DlcPIbcwM08WSmxFai58sd.jpg"
-        },
-        {
-          "name": "Hiro Shimono",
-          "character": "Zenitsu Agatsuma (voice)",
-          "profile": "https://image.tmdb.org/t/p/w300/yrSDcgFefHtWkFmLnTrcw2t0MV.jpg"
-        },
-        {
-          "name": "Takahiro Sakurai",
-          "character": "Giyu Tomioka (voice)",
-          "profile": "https://image.tmdb.org/t/p/w300/8s8owcKmpRAuhzEGjSdRpztthUg.jpg"
-        },
-        {
-          "name": "Akira Ishida",
-          "character": "Akaza (voice)",
-          "profile": "https://image.tmdb.org/t/p/w300/jnW2Gn2NlR2uwOCeyOuzypnTmkH.jpg"
-        },
-        {
-          "name": "Yoshitsugu Matsuoka",
-          "character": "Inosuke Hashibira (voice)",
-          "profile": "https://image.tmdb.org/t/p/w300/ugDwdWEXnmv43jcbnfAi4XwiQ8C.jpg"
-        },
-        {
-          "name": "Toshihiko Seki",
-          "character": "Muzan Kibutsuji (voice)",
-          "profile": "https://image.tmdb.org/t/p/w300/7jUPvx4hxWZWZJgyiCwd8KxWuvI.jpg"
-        },
-        {
-          "name": "Reina Ueda",
-          "character": "Kanao Tsuyuri (voice)",
-          "profile": "https://image.tmdb.org/t/p/w300/hlzrvBzeSYejeaTSZDvEWE44Qjj.jpg"
-        },
-        {
-          "name": "Nobuhiko Okamoto",
-          "character": "Genya Shinazugawa (voice)",
-          "profile": "https://image.tmdb.org/t/p/w300/7s1K2yQVF5iIWILaOfG7QrMZkXA.jpg"
-        },
-        {
-          "name": "Katsuyuki Konishi",
-          "character": "Tengen Uzui (voice)",
-          "profile": "https://image.tmdb.org/t/p/w300/nYM5cH6U7cp4x9dIzW0enmEKmeV.jpg"
-        },
-        {
-          "name": "Akari Kito",
-          "character": "Nezuko Kamado (voice)",
-          "profile": "https://image.tmdb.org/t/p/w300/AoRQOZRC0yINB0WeKnM569rV1wF.jpg"
-        }
-      ],
-      "trailers": [
-        "https://www.youtube.com/watch?v=juD6zgap4-I",
-        "https://www.youtube.com/watch?v=M5daTTJKT3s",
-        "https://www.youtube.com/watch?v=DitPK3bfFOI",
-        "https://www.youtube.com/watch?v=pD4ysb6BTqE",
-        "https://www.youtube.com/watch?v=5EqVDyqhMko",
-        "https://www.youtube.com/watch?v=pzM-GJjactA",
-        "https://www.youtube.com/watch?v=gkXS7_5GOgc",
-        "https://www.youtube.com/watch?v=6h1PbfaL8pQ",
-        "https://www.youtube.com/watch?v=VCC958XvXpA",
-        "https://www.youtube.com/watch?v=ywHXIge-PbA",
-        "https://www.youtube.com/watch?v=11iy5Hyl0fs",
-        "https://www.youtube.com/watch?v=x7uLutVRBfI",
-        "https://www.youtube.com/watch?v=rDDxPpzXFhM",
-        "https://www.youtube.com/watch?v=F6v_I34-EWY",
-        "https://www.youtube.com/watch?v=nKS3mF_D7dM",
-        "https://www.youtube.com/watch?v=seX6WMONCkU"
-      ],
-      "source": "TMDb"
-    },
-    {
       "id": 1061474,
       "title": "Superman",
       "year": "2025",
@@ -535,12 +304,336 @@
       "source": "TMDb"
     },
     {
+      "id": 155,
+      "title": "The Dark Knight",
+      "year": "2008",
+      "overview": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
+      "poster": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+      "rating": 8.523,
+      "genres": [
+        18,
+        28,
+        80,
+        53
+      ],
+      "budget": 185000000,
+      "revenue": 1004558444,
+      "directors": [
+        "Christopher Nolan"
+      ],
+      "writers": [
+        "Jonathan Nolan",
+        "Christopher Nolan",
+        "David S. Goyer",
+        "Christopher Nolan"
+      ],
+      "cast": [
+        {
+          "name": "Christian Bale",
+          "character": "Bruce Wayne",
+          "profile": "https://image.tmdb.org/t/p/w300/7Pxez9J8fuPd2Mn9kex13YALrCQ.jpg"
+        },
+        {
+          "name": "Heath Ledger",
+          "character": "Joker",
+          "profile": "https://image.tmdb.org/t/p/w300/p2z2bURSg7nuMsN9P2s61e2RvNz.jpg"
+        },
+        {
+          "name": "Aaron Eckhart",
+          "character": "Harvey Dent",
+          "profile": "https://image.tmdb.org/t/p/w300/u5JjnRMr9zKEVvOP7k3F6gdcwT6.jpg"
+        },
+        {
+          "name": "Michael Caine",
+          "character": "Alfred",
+          "profile": "https://image.tmdb.org/t/p/w300/bVZRMlpjTAO2pJK6v90buFgVbSW.jpg"
+        },
+        {
+          "name": "Maggie Gyllenhaal",
+          "character": "Rachel",
+          "profile": "https://image.tmdb.org/t/p/w300/vsfkWdYWmA9CpzMHTJzrFxlDnEZ.jpg"
+        },
+        {
+          "name": "Gary Oldman",
+          "character": "Gordon",
+          "profile": "https://image.tmdb.org/t/p/w300/2v9FVVBUrrkW2m3QOcYkuhq9A6o.jpg"
+        },
+        {
+          "name": "Morgan Freeman",
+          "character": "Lucius Fox",
+          "profile": "https://image.tmdb.org/t/p/w300/jPsLqiYGSofU4s6BjrxnefMfabb.jpg"
+        },
+        {
+          "name": "Monique Gabriela Curnen",
+          "character": "Ramirez",
+          "profile": "https://image.tmdb.org/t/p/w300/lJgLQs7cfM49m8VzVviwxIByz76.jpg"
+        },
+        {
+          "name": "Ron Dean",
+          "character": "Wuertz",
+          "profile": "https://image.tmdb.org/t/p/w300/mgqdr4VFrTVZatkki2suNLYxeDG.jpg"
+        },
+        {
+          "name": "Cillian Murphy",
+          "character": "Scarecrow",
+          "profile": "https://image.tmdb.org/t/p/w300/llkbyWKwpfowZ6C8peBjIV9jj99.jpg"
+        }
+      ],
+      "trailers": [
+        "https://www.youtube.com/watch?v=bS8TNDFBAHE",
+        "https://www.youtube.com/watch?v=co2bs_OjLG8",
+        "https://www.youtube.com/watch?v=7pVaGNOp5Vc",
+        "https://www.youtube.com/watch?v=QEBCT-Lsh-A",
+        "https://www.youtube.com/watch?v=sW7Ihg_o5E8",
+        "https://www.youtube.com/watch?v=lNLmk7CPtOw",
+        "https://www.youtube.com/watch?v=_PZpmTj1Q8Q",
+        "https://www.youtube.com/watch?v=_XGnc0rz_Nc",
+        "https://www.youtube.com/watch?v=O4Ytmpb-ReQ",
+        "https://www.youtube.com/watch?v=7zJ0DLJmXl8",
+        "https://www.youtube.com/watch?v=kmJLuwP3MbY"
+      ],
+      "source": "TMDb"
+    },
+    {
+      "id": 1311031,
+      "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+      "year": "2025",
+      "overview": "The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fight as the final battle against Muzan Kibutsuji begins.",
+      "poster": "https://image.tmdb.org/t/p/w500/sUsVimPdA1l162FvdBIlmKBlWHx.jpg",
+      "rating": 7.81,
+      "genres": [
+        16,
+        28,
+        14,
+        53
+      ],
+      "budget": 20000000,
+      "revenue": 569600000,
+      "directors": [
+        "Haruo Sotozaki"
+      ],
+      "writers": [
+        "Hikaru Kondô",
+        "Koyoharu Gotouge"
+      ],
+      "cast": [
+        {
+          "name": "Natsuki Hanae",
+          "character": "Tanjiro Kamado (voice)",
+          "profile": "https://image.tmdb.org/t/p/w300/alTb0DlcPIbcwM08WSmxFai58sd.jpg"
+        },
+        {
+          "name": "Hiro Shimono",
+          "character": "Zenitsu Agatsuma (voice)",
+          "profile": "https://image.tmdb.org/t/p/w300/yrSDcgFefHtWkFmLnTrcw2t0MV.jpg"
+        },
+        {
+          "name": "Takahiro Sakurai",
+          "character": "Giyu Tomioka (voice)",
+          "profile": "https://image.tmdb.org/t/p/w300/8s8owcKmpRAuhzEGjSdRpztthUg.jpg"
+        },
+        {
+          "name": "Akira Ishida",
+          "character": "Akaza (voice)",
+          "profile": "https://image.tmdb.org/t/p/w300/jnW2Gn2NlR2uwOCeyOuzypnTmkH.jpg"
+        },
+        {
+          "name": "Yoshitsugu Matsuoka",
+          "character": "Inosuke Hashibira (voice)",
+          "profile": "https://image.tmdb.org/t/p/w300/ugDwdWEXnmv43jcbnfAi4XwiQ8C.jpg"
+        },
+        {
+          "name": "Toshihiko Seki",
+          "character": "Muzan Kibutsuji (voice)",
+          "profile": "https://image.tmdb.org/t/p/w300/7jUPvx4hxWZWZJgyiCwd8KxWuvI.jpg"
+        },
+        {
+          "name": "Reina Ueda",
+          "character": "Kanao Tsuyuri (voice)",
+          "profile": "https://image.tmdb.org/t/p/w300/hlzrvBzeSYejeaTSZDvEWE44Qjj.jpg"
+        },
+        {
+          "name": "Nobuhiko Okamoto",
+          "character": "Genya Shinazugawa (voice)",
+          "profile": "https://image.tmdb.org/t/p/w300/7s1K2yQVF5iIWILaOfG7QrMZkXA.jpg"
+        },
+        {
+          "name": "Katsuyuki Konishi",
+          "character": "Tengen Uzui (voice)",
+          "profile": "https://image.tmdb.org/t/p/w300/nYM5cH6U7cp4x9dIzW0enmEKmeV.jpg"
+        },
+        {
+          "name": "Akari Kito",
+          "character": "Nezuko Kamado (voice)",
+          "profile": "https://image.tmdb.org/t/p/w300/AoRQOZRC0yINB0WeKnM569rV1wF.jpg"
+        }
+      ],
+      "trailers": [
+        "https://www.youtube.com/watch?v=juD6zgap4-I",
+        "https://www.youtube.com/watch?v=M5daTTJKT3s",
+        "https://www.youtube.com/watch?v=DitPK3bfFOI",
+        "https://www.youtube.com/watch?v=pD4ysb6BTqE",
+        "https://www.youtube.com/watch?v=5EqVDyqhMko",
+        "https://www.youtube.com/watch?v=pzM-GJjactA",
+        "https://www.youtube.com/watch?v=gkXS7_5GOgc",
+        "https://www.youtube.com/watch?v=6h1PbfaL8pQ",
+        "https://www.youtube.com/watch?v=VCC958XvXpA",
+        "https://www.youtube.com/watch?v=ywHXIge-PbA",
+        "https://www.youtube.com/watch?v=11iy5Hyl0fs",
+        "https://www.youtube.com/watch?v=x7uLutVRBfI",
+        "https://www.youtube.com/watch?v=rDDxPpzXFhM",
+        "https://www.youtube.com/watch?v=F6v_I34-EWY",
+        "https://www.youtube.com/watch?v=nKS3mF_D7dM",
+        "https://www.youtube.com/watch?v=seX6WMONCkU"
+      ],
+      "source": "TMDb"
+    },
+    {
+      "id": 1054867,
+      "title": "One Battle After Another",
+      "year": "2025",
+      "overview": "When their evil nemesis resurfaces after 16 years, a band of ex-revolutionaries reunite to rescue the daughter of one of their own.",
+      "poster": "https://image.tmdb.org/t/p/w500/m1jFoahEbeQXtx4zArT2FKdbNIj.jpg",
+      "rating": 7.44,
+      "genres": [
+        28,
+        80,
+        53
+      ],
+      "budget": 175000000,
+      "revenue": 0,
+      "directors": [
+        "Paul Thomas Anderson"
+      ],
+      "writers": [
+        "Paul Thomas Anderson"
+      ],
+      "cast": [
+        {
+          "name": "Leonardo DiCaprio",
+          "character": "Bob Ferguson",
+          "profile": "https://image.tmdb.org/t/p/w300/wo2hJpn04vbtmh0B9utCFdsQhxM.jpg"
+        },
+        {
+          "name": "Sean Penn",
+          "character": "Col. Steven J. Lockjaw",
+          "profile": "https://image.tmdb.org/t/p/w300/9glqNTVpFpdN1nFklKaHPUyCwR6.jpg"
+        },
+        {
+          "name": "Chase Infiniti",
+          "character": "Willa Ferguson",
+          "profile": "https://image.tmdb.org/t/p/w300/2goENGgg9OCz7qjMmm0HNxV9Kjj.jpg"
+        },
+        {
+          "name": "Benicio del Toro",
+          "character": "Sensei Sergio",
+          "profile": "https://image.tmdb.org/t/p/w300/cVh4UgCMu6aAkZ2BqymTLV86FzZ.jpg"
+        },
+        {
+          "name": "Regina Hall",
+          "character": "DeAndre",
+          "profile": "https://image.tmdb.org/t/p/w300/jiFZ4xNrvUUZLBHnJu71CvdN4kj.jpg"
+        },
+        {
+          "name": "Teyana Taylor",
+          "character": "Perfidia Beverly Hills",
+          "profile": "https://image.tmdb.org/t/p/w300/wVHbluUvjKl0NucSeuAhAJAr2oc.jpg"
+        },
+        {
+          "name": "Alana Haim",
+          "character": "Mae West",
+          "profile": "https://image.tmdb.org/t/p/w300/uOU4uueRxH5BYhzNjzPxJOxZStJ.jpg"
+        },
+        {
+          "name": "Wood Harris",
+          "character": "Laredo",
+          "profile": "https://image.tmdb.org/t/p/w300/v3puIl2KncqUd6amDyD1Y0crzkF.jpg"
+        },
+        {
+          "name": "Tony Goldwyn",
+          "character": "Virgil Throckmorton",
+          "profile": "https://image.tmdb.org/t/p/w300/ptm8SG4MYIMn0hnDl2YJ70Dwal5.jpg"
+        },
+        {
+          "name": "Shayna McHayle",
+          "character": "Junglepussy",
+          "profile": "https://image.tmdb.org/t/p/w300/548343QgpjThfYDxXEmtC0RvcH9.jpg"
+        }
+      ],
+      "trailers": [
+        "https://www.youtube.com/watch?v=tcEdFjfaxv4",
+        "https://www.youtube.com/watch?v=lBOO25e7CwI",
+        "https://www.youtube.com/watch?v=elIcgwau344",
+        "https://www.youtube.com/watch?v=NO_fDqNdyuU",
+        "https://www.youtube.com/watch?v=JRXpqdnheN8",
+        "https://www.youtube.com/watch?v=gUYGznHe_1k",
+        "https://www.youtube.com/watch?v=wSedRcHTkN8",
+        "https://www.youtube.com/watch?v=3jCaNBWIXKQ",
+        "https://www.youtube.com/watch?v=p2dte6y0Lt8",
+        "https://www.youtube.com/watch?v=84Xddey4syc",
+        "https://www.youtube.com/watch?v=yJi7_YDufNQ",
+        "https://www.youtube.com/watch?v=dvUzllgFlTA",
+        "https://www.youtube.com/watch?v=yZhOghz2kJ0",
+        "https://www.youtube.com/watch?v=TUDduEOyMis",
+        "https://www.youtube.com/watch?v=Nd-lGk71Hh0",
+        "https://www.youtube.com/watch?v=VnrZIzuQw74",
+        "https://www.youtube.com/watch?v=Saq2IJ-XTo0",
+        "https://www.youtube.com/watch?v=9M7-IbRI8a8",
+        "https://www.youtube.com/watch?v=d2Yt7casDgI",
+        "https://www.youtube.com/watch?v=845YBOHYcPw",
+        "https://www.youtube.com/watch?v=W0-0lcaTU1E",
+        "https://www.youtube.com/watch?v=U_dvDy0ghWo",
+        "https://www.youtube.com/watch?v=QD5jczXmUEA",
+        "https://www.youtube.com/watch?v=HOX9tpFLS2o",
+        "https://www.youtube.com/watch?v=gr-ZW9Ejw1U",
+        "https://www.youtube.com/watch?v=xMWYKhrd918",
+        "https://www.youtube.com/watch?v=qdTCHJrJieQ",
+        "https://www.youtube.com/watch?v=KjPwkpHx7VE",
+        "https://www.youtube.com/watch?v=lOaUWlCCsRU",
+        "https://www.youtube.com/watch?v=ZrFNzpwpxY8",
+        "https://www.youtube.com/watch?v=ZUEUSQl40u4",
+        "https://www.youtube.com/watch?v=AJNXpbrFaKA",
+        "https://www.youtube.com/watch?v=-q1Js2CREdU",
+        "https://www.youtube.com/watch?v=W70VH_7B8uw",
+        "https://www.youtube.com/watch?v=XQ7HD01vAYs",
+        "https://www.youtube.com/watch?v=eUij1Xnlg_I",
+        "https://www.youtube.com/watch?v=9lGOW811SPE",
+        "https://www.youtube.com/watch?v=DG4nS53UCrU",
+        "https://www.youtube.com/watch?v=hQKstwnAzQw",
+        "https://www.youtube.com/watch?v=b7YAP9ACPLA",
+        "https://www.youtube.com/watch?v=C58Ce3u6hfw",
+        "https://www.youtube.com/watch?v=L2OjMbRVX8U",
+        "https://www.youtube.com/watch?v=Y8vkWOhg83I",
+        "https://www.youtube.com/watch?v=imtdhrkR17Y",
+        "https://www.youtube.com/watch?v=xhUdC2pVQ40",
+        "https://www.youtube.com/watch?v=ol176ektnk8",
+        "https://www.youtube.com/watch?v=QukQlsUTaEM",
+        "https://www.youtube.com/watch?v=_jDk6nM9U5w",
+        "https://www.youtube.com/watch?v=zUUlqKsGRI0",
+        "https://www.youtube.com/watch?v=BPy958x9RtE",
+        "https://www.youtube.com/watch?v=pypzxzPMGMk",
+        "https://www.youtube.com/watch?v=Bs3bhGEDZyM",
+        "https://www.youtube.com/watch?v=3OtCNUFcLXo",
+        "https://www.youtube.com/watch?v=SyBEvKXFhGQ",
+        "https://www.youtube.com/watch?v=qQF5_tMiBoc",
+        "https://www.youtube.com/watch?v=6OcUB2LFuHU",
+        "https://www.youtube.com/watch?v=8QDjj1Nzt1g",
+        "https://www.youtube.com/watch?v=kQUPdVxZNPk",
+        "https://www.youtube.com/watch?v=EDeHW1cvIkQ",
+        "https://www.youtube.com/watch?v=dmjCATafn2Q",
+        "https://www.youtube.com/watch?v=XETfXtXGP5k",
+        "https://www.youtube.com/watch?v=hg8AGTyYMBA",
+        "https://www.youtube.com/watch?v=9u-2yB8GJ-Q"
+      ],
+      "source": "TMDb"
+    },
+    {
       "id": 1078605,
       "title": "Weapons",
       "year": "2025",
       "overview": "When all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what is behind their disappearance.",
       "poster": "https://image.tmdb.org/t/p/w500/cpf7vsRZ0MYRQcnLWteD5jK9ymT.jpg",
-      "rating": 7.394,
+      "rating": 7.391,
       "genres": [
         27,
         9648
@@ -671,93 +764,163 @@
       "source": "TMDb"
     },
     {
-      "id": 155,
-      "title": "The Dark Knight",
-      "year": "2008",
-      "overview": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
-      "poster": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
-      "rating": 8.523,
+      "id": 1088166,
+      "title": "Relay",
+      "year": "2025",
+      "overview": "Tom, a world class \"fixer\", specializes in brokering lucrative payoffs between corrupt corporations and the individuals who threaten their ruin. He keeps his identity a secret through meticulous planning and always follows an exacting set of rules. But when a message arrives one day from potential client Sarah, needing Tom's protection just to stay alive, the rules quickly start to change.",
+      "poster": "https://image.tmdb.org/t/p/w500/mpwccO2L8LUVtVTJTdgUVgoQqAo.jpg",
+      "rating": 7.061,
       "genres": [
-        18,
-        28,
-        80,
-        53
+        53,
+        18
       ],
-      "budget": 185000000,
-      "revenue": 1004558444,
+      "budget": 0,
+      "revenue": 4070676,
       "directors": [
-        "Christopher Nolan"
+        "David Mackenzie"
       ],
       "writers": [
-        "David S. Goyer",
-        "Jonathan Nolan",
-        "Christopher Nolan",
-        "Christopher Nolan"
+        "Justin Piasecki",
+        "David Mackenzie"
       ],
       "cast": [
         {
-          "name": "Christian Bale",
-          "character": "Bruce Wayne",
-          "profile": "https://image.tmdb.org/t/p/w300/7Pxez9J8fuPd2Mn9kex13YALrCQ.jpg"
+          "name": "Riz Ahmed",
+          "character": "Tom",
+          "profile": "https://image.tmdb.org/t/p/w300/1uP9RaX7BGVx7XGTEmwObBJJzsC.jpg"
         },
         {
-          "name": "Heath Ledger",
-          "character": "Joker",
-          "profile": "https://image.tmdb.org/t/p/w300/p2z2bURSg7nuMsN9P2s61e2RvNz.jpg"
+          "name": "Lily James",
+          "character": "Sarah",
+          "profile": "https://image.tmdb.org/t/p/w300/7UN8GVsDzccK9UVYzMx3hooLyzZ.jpg"
         },
         {
-          "name": "Aaron Eckhart",
-          "character": "Harvey Dent",
-          "profile": "https://image.tmdb.org/t/p/w300/u5JjnRMr9zKEVvOP7k3F6gdcwT6.jpg"
+          "name": "Sam Worthington",
+          "character": "Dawson",
+          "profile": "https://image.tmdb.org/t/p/w300/mflBcox36s9ZPbsZPVOuhf6axaJ.jpg"
         },
         {
-          "name": "Michael Caine",
-          "character": "Alfred",
-          "profile": "https://image.tmdb.org/t/p/w300/bVZRMlpjTAO2pJK6v90buFgVbSW.jpg"
+          "name": "Willa Fitzgerald",
+          "character": "Rosetti",
+          "profile": "https://image.tmdb.org/t/p/w300/hXvCqRAtmrfjozHtVNrBgXFzzao.jpg"
         },
         {
-          "name": "Maggie Gyllenhaal",
-          "character": "Rachel",
-          "profile": "https://image.tmdb.org/t/p/w300/vsfkWdYWmA9CpzMHTJzrFxlDnEZ.jpg"
+          "name": "Jared Abrahamson",
+          "character": "Ryan",
+          "profile": "https://image.tmdb.org/t/p/w300/3hShByAdCj1Qom9mXeeqJL9zu8d.jpg"
         },
         {
-          "name": "Gary Oldman",
-          "character": "Gordon",
-          "profile": "https://image.tmdb.org/t/p/w300/2v9FVVBUrrkW2m3QOcYkuhq9A6o.jpg"
+          "name": "Pun Bandhu",
+          "character": "Lee",
+          "profile": "https://image.tmdb.org/t/p/w300/3hMF24rf8RVqFbC0zlAU7lMXOCJ.jpg"
         },
         {
-          "name": "Morgan Freeman",
-          "character": "Lucius Fox",
-          "profile": "https://image.tmdb.org/t/p/w300/jPsLqiYGSofU4s6BjrxnefMfabb.jpg"
+          "name": "Eisa Davis",
+          "character": "Wash",
+          "profile": "https://image.tmdb.org/t/p/w300/8zFgKVCJHsyQFO3JD6ftUe4NiXr.jpg"
         },
         {
-          "name": "Monique Gabriela Curnen",
-          "character": "Ramirez",
-          "profile": "https://image.tmdb.org/t/p/w300/lJgLQs7cfM49m8VzVviwxIByz76.jpg"
+          "name": "Matthew Maher",
+          "character": "Hoffman",
+          "profile": "https://image.tmdb.org/t/p/w300/3RPEUaliXJ9lcoL5R5IbcAOwd5D.jpg"
         },
         {
-          "name": "Ron Dean",
-          "character": "Wuertz",
-          "profile": "https://image.tmdb.org/t/p/w300/mgqdr4VFrTVZatkki2suNLYxeDG.jpg"
+          "name": "Seth Barrish",
+          "character": "Morel",
+          "profile": "https://image.tmdb.org/t/p/w300/tliPUgD5rfP71366gSCCucm1rdA.jpg"
         },
         {
-          "name": "Cillian Murphy",
-          "character": "Scarecrow",
-          "profile": "https://image.tmdb.org/t/p/w300/llkbyWKwpfowZ6C8peBjIV9jj99.jpg"
+          "name": "Victor Garber",
+          "character": "Morel",
+          "profile": "https://image.tmdb.org/t/p/w300/zPkpRPdW7rEm4fjgoJNz8hAZ6av.jpg"
         }
       ],
       "trailers": [
-        "https://www.youtube.com/watch?v=bS8TNDFBAHE",
-        "https://www.youtube.com/watch?v=co2bs_OjLG8",
-        "https://www.youtube.com/watch?v=7pVaGNOp5Vc",
-        "https://www.youtube.com/watch?v=QEBCT-Lsh-A",
-        "https://www.youtube.com/watch?v=sW7Ihg_o5E8",
-        "https://www.youtube.com/watch?v=lNLmk7CPtOw",
-        "https://www.youtube.com/watch?v=_PZpmTj1Q8Q",
-        "https://www.youtube.com/watch?v=_XGnc0rz_Nc",
-        "https://www.youtube.com/watch?v=O4Ytmpb-ReQ",
-        "https://www.youtube.com/watch?v=7zJ0DLJmXl8",
-        "https://www.youtube.com/watch?v=kmJLuwP3MbY"
+        "https://www.youtube.com/watch?v=l2d1C0NFWos",
+        "https://www.youtube.com/watch?v=SkMK8_g7upA",
+        "https://www.youtube.com/watch?v=cAggzjekqbA",
+        "https://www.youtube.com/watch?v=ywC__z5VgZM",
+        "https://www.youtube.com/watch?v=GBeb5j1JM4g"
+      ],
+      "source": "TMDb"
+    },
+    {
+      "id": 1265344,
+      "title": "Swiped",
+      "year": "2025",
+      "overview": "Whitney Wolfe uses extraordinary grit and ingenuity to break into the male-dominated tech industry.",
+      "poster": "https://image.tmdb.org/t/p/w500/znxBfe14cefxx5Lu1tgNzggJagt.jpg",
+      "rating": 6.8,
+      "genres": [
+        36,
+        18
+      ],
+      "budget": 0,
+      "revenue": 0,
+      "directors": [
+        "Rachel Lee Goldenberg"
+      ],
+      "writers": [
+        "Rachel Lee Goldenberg",
+        "Bill Parker",
+        "Kim Caramele"
+      ],
+      "cast": [
+        {
+          "name": "Lily James",
+          "character": "Whitney",
+          "profile": "https://image.tmdb.org/t/p/w300/7UN8GVsDzccK9UVYzMx3hooLyzZ.jpg"
+        },
+        {
+          "name": "Ben Schnetzer",
+          "character": "Sean",
+          "profile": "https://image.tmdb.org/t/p/w300/drpFFDyWj2jeoX5I1D1WhUfcCCx.jpg"
+        },
+        {
+          "name": "Myha'la",
+          "character": "Tisha",
+          "profile": "https://image.tmdb.org/t/p/w300/2uI4x273szwjnuVbYInhbxgohdb.jpg"
+        },
+        {
+          "name": "Jackson White",
+          "character": "Justin",
+          "profile": "https://image.tmdb.org/t/p/w300/dXTJFTkti0mpssgsYvMa00W59jB.jpg"
+        },
+        {
+          "name": "Dan Stevens",
+          "character": "Andrey",
+          "profile": "https://image.tmdb.org/t/p/w300/fFsgginZKH527o38ZfdDxuzx7Ew.jpg"
+        },
+        {
+          "name": "Ian Colletti",
+          "character": "JB",
+          "profile": ""
+        },
+        {
+          "name": "Mary Neely",
+          "character": "Beth",
+          "profile": "https://image.tmdb.org/t/p/w300/wpr7XNQnYkyPHzNfhgAmlHM4gSl.jpg"
+        },
+        {
+          "name": "Ana Yi Puig",
+          "character": "Stephanie",
+          "profile": "https://image.tmdb.org/t/p/w300/5udYjUOB1y3PzjpgMTggvul5Klz.jpg"
+        },
+        {
+          "name": "Aidan Laprete",
+          "character": "Adam",
+          "profile": "https://image.tmdb.org/t/p/w300/ipfzLeDycmV9qqpiyN4yzGj8Ure.jpg"
+        },
+        {
+          "name": "Pedro Correa",
+          "character": "Diego",
+          "profile": "https://image.tmdb.org/t/p/w300/vxM1aSGAY5hLDdi1siCD3OqaBNG.jpg"
+        }
+      ],
+      "trailers": [
+        "https://www.youtube.com/watch?v=JgoMd2SHATY",
+        "https://www.youtube.com/watch?v=8seUGDLZRIo",
+        "https://www.youtube.com/watch?v=P_F0owXLcnM"
       ],
       "source": "TMDb"
     },
@@ -767,7 +930,7 @@
       "year": "2002",
       "overview": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not exactly thrilled. His mission: to gather information on an organization that may just be planning the destruction of the world, led by the nihilistic Yorgi.",
       "poster": "https://image.tmdb.org/t/p/w500/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
-      "rating": 5.961,
+      "rating": 6.0,
       "genres": [
         28,
         12,
@@ -845,7 +1008,7 @@
       "year": "2025",
       "overview": "Only one man has the particular set of skills... to lead Police Squad and save the world: Lt. Frank Drebin Jr.",
       "poster": "https://image.tmdb.org/t/p/w500/rmwQ8GsdQ1M3LtemNWLErle2nBU.jpg",
-      "rating": 6.695,
+      "rating": 6.698,
       "genres": [
         35,
         28,
@@ -982,93 +1145,12 @@
       "source": "TMDb"
     },
     {
-      "id": 1088166,
-      "title": "Relay",
-      "year": "2025",
-      "overview": "Tom, a world class \"fixer\", specializes in brokering lucrative payoffs between corrupt corporations and the individuals who threaten their ruin. He keeps his identity a secret through meticulous planning and always follows an exacting set of rules. But when a message arrives one day from potential client Sarah, needing Tom's protection just to stay alive, the rules quickly start to change.",
-      "poster": "https://image.tmdb.org/t/p/w500/mpwccO2L8LUVtVTJTdgUVgoQqAo.jpg",
-      "rating": 6.986,
-      "genres": [
-        53,
-        18
-      ],
-      "budget": 0,
-      "revenue": 4070676,
-      "directors": [
-        "David Mackenzie"
-      ],
-      "writers": [
-        "Justin Piasecki",
-        "David Mackenzie"
-      ],
-      "cast": [
-        {
-          "name": "Riz Ahmed",
-          "character": "Tom",
-          "profile": "https://image.tmdb.org/t/p/w300/1uP9RaX7BGVx7XGTEmwObBJJzsC.jpg"
-        },
-        {
-          "name": "Lily James",
-          "character": "Sarah",
-          "profile": "https://image.tmdb.org/t/p/w300/7UN8GVsDzccK9UVYzMx3hooLyzZ.jpg"
-        },
-        {
-          "name": "Sam Worthington",
-          "character": "Dawson",
-          "profile": "https://image.tmdb.org/t/p/w300/mflBcox36s9ZPbsZPVOuhf6axaJ.jpg"
-        },
-        {
-          "name": "Willa Fitzgerald",
-          "character": "Rosetti",
-          "profile": "https://image.tmdb.org/t/p/w300/hXvCqRAtmrfjozHtVNrBgXFzzao.jpg"
-        },
-        {
-          "name": "Jared Abrahamson",
-          "character": "Ryan",
-          "profile": "https://image.tmdb.org/t/p/w300/3hShByAdCj1Qom9mXeeqJL9zu8d.jpg"
-        },
-        {
-          "name": "Pun Bandhu",
-          "character": "Lee",
-          "profile": "https://image.tmdb.org/t/p/w300/3hMF24rf8RVqFbC0zlAU7lMXOCJ.jpg"
-        },
-        {
-          "name": "Eisa Davis",
-          "character": "Wash",
-          "profile": "https://image.tmdb.org/t/p/w300/8zFgKVCJHsyQFO3JD6ftUe4NiXr.jpg"
-        },
-        {
-          "name": "Matthew Maher",
-          "character": "Hoffman",
-          "profile": "https://image.tmdb.org/t/p/w300/3RPEUaliXJ9lcoL5R5IbcAOwd5D.jpg"
-        },
-        {
-          "name": "Seth Barrish",
-          "character": "Morel",
-          "profile": "https://image.tmdb.org/t/p/w300/tliPUgD5rfP71366gSCCucm1rdA.jpg"
-        },
-        {
-          "name": "Victor Garber",
-          "character": "Morel",
-          "profile": "https://image.tmdb.org/t/p/w300/zPkpRPdW7rEm4fjgoJNz8hAZ6av.jpg"
-        }
-      ],
-      "trailers": [
-        "https://www.youtube.com/watch?v=l2d1C0NFWos",
-        "https://www.youtube.com/watch?v=SkMK8_g7upA",
-        "https://www.youtube.com/watch?v=cAggzjekqbA",
-        "https://www.youtube.com/watch?v=ywC__z5VgZM",
-        "https://www.youtube.com/watch?v=GBeb5j1JM4g"
-      ],
-      "source": "TMDb"
-    },
-    {
       "id": 1007734,
       "title": "Nobody 2",
       "year": "2025",
       "overview": "Former assassin Hutch Mansell takes his family on a nostalgic vacation to a small-town theme park, only to be pulled back into violence when they clash with a corrupt operator, a crooked sheriff, and a ruthless crime boss.",
       "poster": "https://image.tmdb.org/t/p/w500/svXVRoRSu6zzFtCzkRsjZS7Lqpd.jpg",
-      "rating": 7.205,
+      "rating": 7.202,
       "genres": [
         28,
         53
@@ -1155,166 +1237,243 @@
       "source": "TMDb"
     },
     {
-      "id": 967941,
-      "title": "Wicked: For Good",
-      "year": "2025",
-      "overview": "As an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the fulcrum of their futures, they will need to truly see each other, with honesty and empathy, if they are to change themselves, and all of Oz, for good.",
-      "poster": "https://image.tmdb.org/t/p/w500/si9tolnefLSUKaqQEGz1bWArOaL.jpg",
-      "rating": null,
+      "id": 157336,
+      "title": "Interstellar",
+      "year": "2014",
+      "overview": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
+      "poster": "https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+      "rating": 8.461,
       "genres": [
-        14,
-        10749,
-        18
+        12,
+        18,
+        878
       ],
-      "budget": 150000000,
-      "revenue": 0,
+      "budget": 165000000,
+      "revenue": 746606706,
       "directors": [
-        "Jon M. Chu"
+        "Christopher Nolan"
       ],
       "writers": [
-        "Winnie Holzman",
-        "Dana Fox"
+        "Jonathan Nolan",
+        "Christopher Nolan"
       ],
       "cast": [
         {
-          "name": "Cynthia Erivo",
-          "character": "Elphaba",
-          "profile": "https://image.tmdb.org/t/p/w300/gIAXqZwZCBqkh2ppfAV4xcnMxki.jpg"
+          "name": "Matthew McConaughey",
+          "character": "Cooper",
+          "profile": "https://image.tmdb.org/t/p/w300/lCySuYjhXix3FzQdS4oceDDrXKI.jpg"
         },
         {
-          "name": "Ariana Grande",
-          "character": "Galinda / Glinda",
-          "profile": "https://image.tmdb.org/t/p/w300/ojr2zF46BmPe7EALds7WQf6Ro4O.jpg"
+          "name": "Anne Hathaway",
+          "character": "Brand",
+          "profile": "https://image.tmdb.org/t/p/w300/s6tflSD20MGz04ZR2R1lZvhmC4Y.jpg"
         },
         {
-          "name": "Jonathan Bailey",
-          "character": "Fiyero",
-          "profile": "https://image.tmdb.org/t/p/w300/kMtZtavkXIXYA0CnhaWqbNo6uFV.jpg"
+          "name": "Michael Caine",
+          "character": "Professor Brand",
+          "profile": "https://image.tmdb.org/t/p/w300/bVZRMlpjTAO2pJK6v90buFgVbSW.jpg"
         },
         {
-          "name": "Ethan Slater",
-          "character": "Boq",
-          "profile": "https://image.tmdb.org/t/p/w300/xIgqyrM78FPt7Pb2Vv3IvJcnOWS.jpg"
+          "name": "Jessica Chastain",
+          "character": "Murph",
+          "profile": "https://image.tmdb.org/t/p/w300/xRvRzxiiHhgUErl0yf9w8WariRE.jpg"
         },
         {
-          "name": "Marissa Bode",
-          "character": "Nessarose",
-          "profile": "https://image.tmdb.org/t/p/w300/3ZoBNPpXsM35HrGMkRxU9Ez5YR0.jpg"
+          "name": "Casey Affleck",
+          "character": "Tom",
+          "profile": "https://image.tmdb.org/t/p/w300/304ilSygaCRWykoBWAL67TOw8g9.jpg"
         },
         {
-          "name": "Michelle Yeoh",
-          "character": "Madame Morrible",
-          "profile": "https://image.tmdb.org/t/p/w300/nrbHNzSMydpWK9um5VqWIFJihB5.jpg"
+          "name": "Wes Bentley",
+          "character": "Doyle",
+          "profile": "https://image.tmdb.org/t/p/w300/voD93lzFZrr9xfAggwFcPRBi84i.jpg"
         },
         {
-          "name": "Jeff Goldblum",
-          "character": "The Wonderful Wizard of Oz",
-          "profile": "https://image.tmdb.org/t/p/w300/ceSmXnD0FUSTaq2WIrnZu9caL0t.jpg"
+          "name": "Topher Grace",
+          "character": "Getty",
+          "profile": "https://image.tmdb.org/t/p/w300/oJQxl4DG0KSCtOGrpWNhYz9gUZA.jpg"
         },
         {
-          "name": "Peter Dinklage",
-          "character": "Doctor Dillamond (voice)",
-          "profile": "https://image.tmdb.org/t/p/w300/9CAd7wr8QZyIN0E7nm8v1B6WkGn.jpg"
+          "name": "Mackenzie Foy",
+          "character": "Murph (10 Yrs.)",
+          "profile": "https://image.tmdb.org/t/p/w300/gW9BdiA9eooBWa5bzHWkV7rbTa8.jpg"
         },
         {
-          "name": "Bowen Yang",
-          "character": "Pfannee de Phan Hall",
-          "profile": "https://image.tmdb.org/t/p/w300/lrebxaz4BGJucBW79cakZ0HsSa1.jpg"
+          "name": "Ellen Burstyn",
+          "character": "Murph (older)",
+          "profile": "https://image.tmdb.org/t/p/w300/uEHZoAtCnGCXvQDHe3s3DWW2G1c.jpg"
         },
         {
-          "name": "Bronwyn James",
-          "character": "ShenShen",
-          "profile": "https://image.tmdb.org/t/p/w300/mSaZaVNsAVU70VH5go2D2oS8OIL.jpg"
+          "name": "John Lithgow",
+          "character": "Donald",
+          "profile": "https://image.tmdb.org/t/p/w300/8Y1sjBdnVR483S8PrnAQzlESwhx.jpg"
         }
       ],
       "trailers": [
-        "https://www.youtube.com/watch?v=qEAL0e4Zf1w",
-        "https://www.youtube.com/watch?v=CZTxUeFnm28",
-        "https://www.youtube.com/watch?v=7CcXSwj8ZwU",
-        "https://www.youtube.com/watch?v=B1uyetoHQk4",
-        "https://www.youtube.com/watch?v=KfHJJRUqtuw",
-        "https://www.youtube.com/watch?v=vt98AlBDI9Y",
-        "https://www.youtube.com/watch?v=hEzjRK0CxHc"
+        "https://www.youtube.com/watch?v=xGrbLfi1VJ8",
+        "https://www.youtube.com/watch?v=1GmqkGScOVY",
+        "https://www.youtube.com/watch?v=u-ElPzExvPA",
+        "https://www.youtube.com/watch?v=MCsG9zH7DJE",
+        "https://www.youtube.com/watch?v=Rvns5DaW-ug",
+        "https://www.youtube.com/watch?v=v2H1s9gj5DA",
+        "https://www.youtube.com/watch?v=60h6lpnSgck",
+        "https://www.youtube.com/watch?v=IIFd8NPCj-E",
+        "https://www.youtube.com/watch?v=PG5c2GgkA2w",
+        "https://www.youtube.com/watch?v=KlyknsTJk0w",
+        "https://www.youtube.com/watch?v=w7JZCsSD92E",
+        "https://www.youtube.com/watch?v=_F5cmjqt5I8",
+        "https://www.youtube.com/watch?v=dz_928ZO19Y",
+        "https://www.youtube.com/watch?v=Y9rdngQZfUU",
+        "https://www.youtube.com/watch?v=XsCfS5besfo",
+        "https://www.youtube.com/watch?v=w8ZOKlYBWus",
+        "https://www.youtube.com/watch?v=FaIbpwbwWQE",
+        "https://www.youtube.com/watch?v=djMep33GSt0",
+        "https://www.youtube.com/watch?v=qGYonVfG6gI",
+        "https://www.youtube.com/watch?v=7YwSoLCTbz8",
+        "https://www.youtube.com/watch?v=Pfg34mY-0gU",
+        "https://www.youtube.com/watch?v=WqNirxasldY",
+        "https://www.youtube.com/watch?v=1aT4fOdqqhM",
+        "https://www.youtube.com/watch?v=xaMN10L27pc",
+        "https://www.youtube.com/watch?v=oILbvIRsfpM",
+        "https://www.youtube.com/watch?v=fdwHVtAan38",
+        "https://www.youtube.com/watch?v=fCzvSlAnDh0",
+        "https://www.youtube.com/watch?v=nQD_erRnmBE",
+        "https://www.youtube.com/watch?v=a8wgnCdeubY",
+        "https://www.youtube.com/watch?v=oHjmheDsqZw",
+        "https://www.youtube.com/watch?v=Y6BdKtOh9x4",
+        "https://www.youtube.com/watch?v=6pzIAkVbY3M",
+        "https://www.youtube.com/watch?v=MfGfZwQ_qaY",
+        "https://www.youtube.com/watch?v=cnKpDDH9_gM",
+        "https://www.youtube.com/watch?v=gde77UF0LUQ",
+        "https://www.youtube.com/watch?v=gJEAbk44Lrk",
+        "https://www.youtube.com/watch?v=6IcgFXERGvA",
+        "https://www.youtube.com/watch?v=LY19rHKAaAg",
+        "https://www.youtube.com/watch?v=C_qBaqv7C_o",
+        "https://www.youtube.com/watch?v=R8teZZ-loaI",
+        "https://www.youtube.com/watch?v=ePbKGoIGAXY",
+        "https://www.youtube.com/watch?v=zSWdZVtXT7E",
+        "https://www.youtube.com/watch?v=827FNDpQWrQ"
       ],
       "source": "TMDb"
     },
     {
-      "id": 1265344,
-      "title": "Swiped",
+      "id": 1038392,
+      "title": "The Conjuring: Last Rites",
       "year": "2025",
-      "overview": "Whitney Wolfe uses extraordinary grit and ingenuity to break into the male-dominated tech industry.",
-      "poster": "https://image.tmdb.org/t/p/w500/znxBfe14cefxx5Lu1tgNzggJagt.jpg",
-      "rating": 6.883,
+      "overview": "Paranormal investigators Ed and Lorraine Warren take on one last terrifying case involving mysterious entities they must confront.",
+      "poster": "https://image.tmdb.org/t/p/w500/7JzOmJ1fIU43I3gLHYsY8UzNzjG.jpg",
+      "rating": 6.578,
       "genres": [
-        36,
-        18
+        27
       ],
-      "budget": 0,
-      "revenue": 0,
+      "budget": 55000000,
+      "revenue": 402369657,
       "directors": [
-        "Rachel Lee Goldenberg"
+        "Michael Chaves"
       ],
       "writers": [
-        "Rachel Lee Goldenberg",
-        "Bill Parker",
-        "Kim Caramele"
+        "David Leslie Johnson-McGoldrick",
+        "James Wan",
+        "Ian B. Goldberg",
+        "Richard Naing",
+        "David Leslie Johnson-McGoldrick"
       ],
       "cast": [
         {
-          "name": "Lily James",
-          "character": "Whitney",
-          "profile": "https://image.tmdb.org/t/p/w300/7UN8GVsDzccK9UVYzMx3hooLyzZ.jpg"
+          "name": "Vera Farmiga",
+          "character": "Lorraine Warren",
+          "profile": "https://image.tmdb.org/t/p/w300/5Vs7huBmTKftwlsc2BPAntyaQYj.jpg"
         },
         {
-          "name": "Ben Schnetzer",
-          "character": "Sean",
-          "profile": "https://image.tmdb.org/t/p/w300/drpFFDyWj2jeoX5I1D1WhUfcCCx.jpg"
+          "name": "Patrick Wilson",
+          "character": "Ed Warren",
+          "profile": "https://image.tmdb.org/t/p/w300/tc1ezEfIY8BhCy85svOUDtpBFPt.jpg"
         },
         {
-          "name": "Myha'la",
-          "character": "Tisha",
-          "profile": "https://image.tmdb.org/t/p/w300/2uI4x273szwjnuVbYInhbxgohdb.jpg"
+          "name": "Mia Tomlinson",
+          "character": "Judy Warren",
+          "profile": "https://image.tmdb.org/t/p/w300/cBSSODc05j8s8omYfX0Px07AIvr.jpg"
         },
         {
-          "name": "Jackson White",
-          "character": "Justin",
-          "profile": "https://image.tmdb.org/t/p/w300/dXTJFTkti0mpssgsYvMa00W59jB.jpg"
+          "name": "Ben Hardy",
+          "character": "Tony Spera",
+          "profile": "https://image.tmdb.org/t/p/w300/s8UEIomgY5AaEmPHkcPAScp68Fw.jpg"
         },
         {
-          "name": "Dan Stevens",
-          "character": "Andrey",
-          "profile": "https://image.tmdb.org/t/p/w300/fFsgginZKH527o38ZfdDxuzx7Ew.jpg"
+          "name": "Rebecca Calder",
+          "character": "Janet Smurl",
+          "profile": "https://image.tmdb.org/t/p/w300/A43USnarLnfWXDvWimT24cPVfEm.jpg"
         },
         {
-          "name": "Ian Colletti",
-          "character": "JB",
-          "profile": ""
+          "name": "Tilly Walker",
+          "character": "Carin Smurl",
+          "profile": "https://image.tmdb.org/t/p/w300/oiRyVNlrUHajGyT1d3Kqj4V6Bdf.jpg"
         },
         {
-          "name": "Mary Neely",
-          "character": "Beth",
-          "profile": "https://image.tmdb.org/t/p/w300/wpr7XNQnYkyPHzNfhgAmlHM4gSl.jpg"
+          "name": "Elliot Cowan",
+          "character": "Jack Smurl",
+          "profile": "https://image.tmdb.org/t/p/w300/zxewsfDGYuCqV7gsZjMQct6BXMJ.jpg"
         },
         {
-          "name": "Ana Yi Puig",
-          "character": "Stephanie",
-          "profile": "https://image.tmdb.org/t/p/w300/5udYjUOB1y3PzjpgMTggvul5Klz.jpg"
+          "name": "Shannon Kook",
+          "character": "Drew Thomas",
+          "profile": "https://image.tmdb.org/t/p/w300/gBJmrtY2fBFfkQRfosLv2MNWx2J.jpg"
         },
         {
-          "name": "Aidan Laprete",
-          "character": "Adam",
-          "profile": "https://image.tmdb.org/t/p/w300/ipfzLeDycmV9qqpiyN4yzGj8Ure.jpg"
+          "name": "Steve Coulter",
+          "character": "Father Gordon",
+          "profile": "https://image.tmdb.org/t/p/w300/ng01ren9pCYPIsIwRqC1xHzD5IG.jpg"
         },
         {
-          "name": "Pedro Correa",
-          "character": "Diego",
-          "profile": "https://image.tmdb.org/t/p/w300/vxM1aSGAY5hLDdi1siCD3OqaBNG.jpg"
+          "name": "Kíla Lord Cassidy",
+          "character": "Heather Smurl",
+          "profile": "https://image.tmdb.org/t/p/w300/7vUPASAuPkgfXzS9DQhOo9uTLJc.jpg"
         }
       ],
       "trailers": [
-        "https://www.youtube.com/watch?v=JgoMd2SHATY",
-        "https://www.youtube.com/watch?v=8seUGDLZRIo",
-        "https://www.youtube.com/watch?v=P_F0owXLcnM"
+        "https://www.youtube.com/watch?v=3iBhELud1-I",
+        "https://www.youtube.com/watch?v=YVbHSRleTmU",
+        "https://www.youtube.com/watch?v=cw8KajB4JeQ",
+        "https://www.youtube.com/watch?v=Dg63O5d15Wg",
+        "https://www.youtube.com/watch?v=6YBNV0Z51IM",
+        "https://www.youtube.com/watch?v=m19EFnX40Cg",
+        "https://www.youtube.com/watch?v=dMbFgvTsgwA",
+        "https://www.youtube.com/watch?v=1LHUndpIm3Q",
+        "https://www.youtube.com/watch?v=ZIyfiX5qrxw",
+        "https://www.youtube.com/watch?v=XzLTNftJJvc",
+        "https://www.youtube.com/watch?v=14glKAg7kpA",
+        "https://www.youtube.com/watch?v=TNjRbIPuuAY",
+        "https://www.youtube.com/watch?v=Hp4AX2q0N_Q",
+        "https://www.youtube.com/watch?v=LhAQr-ZvcyY",
+        "https://www.youtube.com/watch?v=FKX95PnqNcA",
+        "https://www.youtube.com/watch?v=xPnrrHPtzyI",
+        "https://www.youtube.com/watch?v=S1OWfDyrk0o",
+        "https://www.youtube.com/watch?v=3Cw-bJQ1Ji8",
+        "https://www.youtube.com/watch?v=Qy6Zc4viT64",
+        "https://www.youtube.com/watch?v=_GxskyETFj0",
+        "https://www.youtube.com/watch?v=Zrz00rGnX38",
+        "https://www.youtube.com/watch?v=jQzX7fPFMuw",
+        "https://www.youtube.com/watch?v=YBJK9Pna54I",
+        "https://www.youtube.com/watch?v=S0MdnFYgEII",
+        "https://www.youtube.com/watch?v=LhNDy-T8Y5A",
+        "https://www.youtube.com/watch?v=JwViglfHFxM",
+        "https://www.youtube.com/watch?v=p4aWdkM5xF8",
+        "https://www.youtube.com/watch?v=w2CTkPjmQ1Y",
+        "https://www.youtube.com/watch?v=pwLNMtz6QbM",
+        "https://www.youtube.com/watch?v=IxB50J1ZSvA",
+        "https://www.youtube.com/watch?v=IjDsQKH3h8Y",
+        "https://www.youtube.com/watch?v=XLNi2jALpiU",
+        "https://www.youtube.com/watch?v=-CN-TEj7KMQ",
+        "https://www.youtube.com/watch?v=_pTH8nqYTDs",
+        "https://www.youtube.com/watch?v=PNt1FZXbD4k",
+        "https://www.youtube.com/watch?v=411ptXpPtWA",
+        "https://www.youtube.com/watch?v=xFyCbokgH0E",
+        "https://www.youtube.com/watch?v=t-ypvm_JJjQ",
+        "https://www.youtube.com/watch?v=bMgfsdYoEEo",
+        "https://www.youtube.com/watch?v=A7Eu86USqcw",
+        "https://www.youtube.com/watch?v=32Qzh695g3s",
+        "https://www.youtube.com/watch?v=FSAz556s0fM",
+        "https://www.youtube.com/watch?v=WI7GOmpOBkk"
       ],
       "source": "TMDb"
     },
@@ -1515,525 +1674,12 @@
       "source": "TMDb"
     },
     {
-      "id": 1038392,
-      "title": "The Conjuring: Last Rites",
-      "year": "2025",
-      "overview": "Paranormal investigators Ed and Lorraine Warren take on one last terrifying case involving mysterious entities they must confront.",
-      "poster": "https://image.tmdb.org/t/p/w500/7JzOmJ1fIU43I3gLHYsY8UzNzjG.jpg",
-      "rating": 6.6,
-      "genres": [
-        27
-      ],
-      "budget": 55000000,
-      "revenue": 401004657,
-      "directors": [
-        "Michael Chaves"
-      ],
-      "writers": [
-        "David Leslie Johnson-McGoldrick",
-        "James Wan",
-        "Ian B. Goldberg",
-        "Richard Naing",
-        "David Leslie Johnson-McGoldrick"
-      ],
-      "cast": [
-        {
-          "name": "Vera Farmiga",
-          "character": "Lorraine Warren",
-          "profile": "https://image.tmdb.org/t/p/w300/5Vs7huBmTKftwlsc2BPAntyaQYj.jpg"
-        },
-        {
-          "name": "Patrick Wilson",
-          "character": "Ed Warren",
-          "profile": "https://image.tmdb.org/t/p/w300/tc1ezEfIY8BhCy85svOUDtpBFPt.jpg"
-        },
-        {
-          "name": "Mia Tomlinson",
-          "character": "Judy Warren",
-          "profile": "https://image.tmdb.org/t/p/w300/cBSSODc05j8s8omYfX0Px07AIvr.jpg"
-        },
-        {
-          "name": "Ben Hardy",
-          "character": "Tony Spera",
-          "profile": "https://image.tmdb.org/t/p/w300/s8UEIomgY5AaEmPHkcPAScp68Fw.jpg"
-        },
-        {
-          "name": "Rebecca Calder",
-          "character": "Janet Smurl",
-          "profile": "https://image.tmdb.org/t/p/w300/A43USnarLnfWXDvWimT24cPVfEm.jpg"
-        },
-        {
-          "name": "Tilly Walker",
-          "character": "Carin Smurl",
-          "profile": "https://image.tmdb.org/t/p/w300/oiRyVNlrUHajGyT1d3Kqj4V6Bdf.jpg"
-        },
-        {
-          "name": "Elliot Cowan",
-          "character": "Jack Smurl",
-          "profile": "https://image.tmdb.org/t/p/w300/zxewsfDGYuCqV7gsZjMQct6BXMJ.jpg"
-        },
-        {
-          "name": "Shannon Kook",
-          "character": "Drew Thomas",
-          "profile": "https://image.tmdb.org/t/p/w300/gBJmrtY2fBFfkQRfosLv2MNWx2J.jpg"
-        },
-        {
-          "name": "Steve Coulter",
-          "character": "Father Gordon",
-          "profile": "https://image.tmdb.org/t/p/w300/ng01ren9pCYPIsIwRqC1xHzD5IG.jpg"
-        },
-        {
-          "name": "Kíla Lord Cassidy",
-          "character": "Heather Smurl",
-          "profile": "https://image.tmdb.org/t/p/w300/7vUPASAuPkgfXzS9DQhOo9uTLJc.jpg"
-        }
-      ],
-      "trailers": [
-        "https://www.youtube.com/watch?v=3iBhELud1-I",
-        "https://www.youtube.com/watch?v=YVbHSRleTmU",
-        "https://www.youtube.com/watch?v=cw8KajB4JeQ",
-        "https://www.youtube.com/watch?v=Dg63O5d15Wg",
-        "https://www.youtube.com/watch?v=6YBNV0Z51IM",
-        "https://www.youtube.com/watch?v=m19EFnX40Cg",
-        "https://www.youtube.com/watch?v=dMbFgvTsgwA",
-        "https://www.youtube.com/watch?v=1LHUndpIm3Q",
-        "https://www.youtube.com/watch?v=ZIyfiX5qrxw",
-        "https://www.youtube.com/watch?v=XzLTNftJJvc",
-        "https://www.youtube.com/watch?v=14glKAg7kpA",
-        "https://www.youtube.com/watch?v=TNjRbIPuuAY",
-        "https://www.youtube.com/watch?v=Hp4AX2q0N_Q",
-        "https://www.youtube.com/watch?v=LhAQr-ZvcyY",
-        "https://www.youtube.com/watch?v=FKX95PnqNcA",
-        "https://www.youtube.com/watch?v=xPnrrHPtzyI",
-        "https://www.youtube.com/watch?v=S1OWfDyrk0o",
-        "https://www.youtube.com/watch?v=3Cw-bJQ1Ji8",
-        "https://www.youtube.com/watch?v=Qy6Zc4viT64",
-        "https://www.youtube.com/watch?v=_GxskyETFj0",
-        "https://www.youtube.com/watch?v=Zrz00rGnX38",
-        "https://www.youtube.com/watch?v=jQzX7fPFMuw",
-        "https://www.youtube.com/watch?v=YBJK9Pna54I",
-        "https://www.youtube.com/watch?v=S0MdnFYgEII",
-        "https://www.youtube.com/watch?v=LhNDy-T8Y5A",
-        "https://www.youtube.com/watch?v=JwViglfHFxM",
-        "https://www.youtube.com/watch?v=p4aWdkM5xF8",
-        "https://www.youtube.com/watch?v=w2CTkPjmQ1Y",
-        "https://www.youtube.com/watch?v=pwLNMtz6QbM",
-        "https://www.youtube.com/watch?v=IxB50J1ZSvA",
-        "https://www.youtube.com/watch?v=IjDsQKH3h8Y",
-        "https://www.youtube.com/watch?v=XLNi2jALpiU",
-        "https://www.youtube.com/watch?v=-CN-TEj7KMQ",
-        "https://www.youtube.com/watch?v=_pTH8nqYTDs",
-        "https://www.youtube.com/watch?v=PNt1FZXbD4k",
-        "https://www.youtube.com/watch?v=411ptXpPtWA",
-        "https://www.youtube.com/watch?v=xFyCbokgH0E",
-        "https://www.youtube.com/watch?v=t-ypvm_JJjQ",
-        "https://www.youtube.com/watch?v=bMgfsdYoEEo",
-        "https://www.youtube.com/watch?v=A7Eu86USqcw",
-        "https://www.youtube.com/watch?v=32Qzh695g3s",
-        "https://www.youtube.com/watch?v=FSAz556s0fM",
-        "https://www.youtube.com/watch?v=WI7GOmpOBkk"
-      ],
-      "source": "TMDb"
-    },
-    {
-      "id": 1328803,
-      "title": "Prisoner of War",
-      "year": "2025",
-      "overview": "British RAF Wing Commander James Wright is captured by the Japanese during WWII and forced to fight in brutal hand-to-hand combat. The Japanese soldiers get more than they bargained for when Wright’s years of martial arts training in Hong Kong prove him to be a formidable opponent.",
-      "poster": "https://image.tmdb.org/t/p/w500/1XET89sjRm9mUuHXhGIlKTNd5uD.jpg",
-      "rating": 6.5,
-      "genres": [
-        28,
-        10752,
-        53,
-        36
-      ],
-      "budget": 2000000,
-      "revenue": 0,
-      "directors": [
-        "Louis Mandylor"
-      ],
-      "writers": [
-        "Marc Clebanoff"
-      ],
-      "cast": [
-        {
-          "name": "Scott Adkins",
-          "character": "James Wright",
-          "profile": "https://image.tmdb.org/t/p/w300/9NRr2a1riIn5CWn5McZLJlk4vxR.jpg"
-        },
-        {
-          "name": "Peter Shinkoda",
-          "character": "",
-          "profile": "https://image.tmdb.org/t/p/w300/lCQl28poQr4bLwqZjhryGkV73jO.jpg"
-        },
-        {
-          "name": "Michael Copon",
-          "character": "",
-          "profile": "https://image.tmdb.org/t/p/w300/i3k6kmAA3LLlPFEzkOs5hRIfwg6.jpg"
-        },
-        {
-          "name": "Donald Cerrone",
-          "character": "",
-          "profile": "https://image.tmdb.org/t/p/w300/yHRgWTQuKr5tAMeR3qTtsOQU0Jb.jpg"
-        },
-        {
-          "name": "Michael Rene Walton",
-          "character": "",
-          "profile": "https://image.tmdb.org/t/p/w300/t7yY3Cyei6hH5CVI7y2TtG1oJVX.jpg"
-        },
-        {
-          "name": "Gary Cairns",
-          "character": "",
-          "profile": "https://image.tmdb.org/t/p/w300/2J26NSBfmtborzz32ZqRpCkmr15.jpg"
-        },
-        {
-          "name": "Shane Kosugi",
-          "character": "",
-          "profile": "https://image.tmdb.org/t/p/w300/5ePVKMbW8aaI6oBtFoClJOZGpMl.jpg"
-        },
-        {
-          "name": "Masanori Mimoto",
-          "character": "",
-          "profile": "https://image.tmdb.org/t/p/w300/koSSsi2LU6gJm3S6o0OgJaxJExx.jpg"
-        },
-        {
-          "name": "Gabbi Garcia",
-          "character": "",
-          "profile": "https://image.tmdb.org/t/p/w300/ymGQhMZaNoCyXY4rNb2vDl4mKNT.jpg"
-        },
-        {
-          "name": "Sol Eugenio",
-          "character": "Japanese Soldier",
-          "profile": "https://image.tmdb.org/t/p/w300/gb7PMq9wZPM3WJJup5fWAkEOnFC.jpg"
-        }
-      ],
-      "trailers": [
-        "https://www.youtube.com/watch?v=wAz7ms25K-U",
-        "https://www.youtube.com/watch?v=GPMm5EnUC8Y",
-        "https://www.youtube.com/watch?v=mKFL8CMoCVk",
-        "https://www.youtube.com/watch?v=pr9BWYlZWlQ"
-      ],
-      "source": "TMDb"
-    },
-    {
-      "id": 1337562,
-      "title": "Splitsville",
-      "year": "2025",
-      "overview": "After Ashley asks for a divorce, good-natured Carey runs to his friends, Julie and Paul, for support. He’s shocked to discover that the secret to their happiness is an open marriage, that is until Carey crosses the line and throws all of their relationships into chaos.",
-      "poster": "https://image.tmdb.org/t/p/w500/gxCv6kUdywxYzIXX6xYcmX5APUV.jpg",
-      "rating": 6.8,
-      "genres": [
-        35
-      ],
-      "budget": 0,
-      "revenue": 2561783,
-      "directors": [
-        "Michael Angelo Covino"
-      ],
-      "writers": [
-        "Michael Angelo Covino",
-        "Kyle Marvin"
-      ],
-      "cast": [
-        {
-          "name": "Dakota Johnson",
-          "character": "Julie",
-          "profile": "https://image.tmdb.org/t/p/w300/bSfVBJ8S3F1MPpCmIWb8UJcUZGP.jpg"
-        },
-        {
-          "name": "Adria Arjona",
-          "character": "Ashley",
-          "profile": "https://image.tmdb.org/t/p/w300/1pRUjjrhnn1EzFz5dxbFAxcSCBC.jpg"
-        },
-        {
-          "name": "Kyle Marvin",
-          "character": "Carey",
-          "profile": "https://image.tmdb.org/t/p/w300/6i3BTrlNjsjZDIDMFnwMPcxzTiq.jpg"
-        },
-        {
-          "name": "Michael Angelo Covino",
-          "character": "Paul",
-          "profile": "https://image.tmdb.org/t/p/w300/2cqHckGHSyBSGojJyqRZPTlUDLB.jpg"
-        },
-        {
-          "name": "Simon Webster",
-          "character": "Russ",
-          "profile": "https://image.tmdb.org/t/p/w300/dU4EECKoDEPL2OoSWbwQyvUEtny.jpg"
-        },
-        {
-          "name": "Charlie Gillespie",
-          "character": "Jackson",
-          "profile": "https://image.tmdb.org/t/p/w300/5wjj2z7lqc5HvIiTQQ5Wv0yRUxV.jpg"
-        },
-        {
-          "name": "David Castañeda",
-          "character": "Fede",
-          "profile": "https://image.tmdb.org/t/p/w300/tJL5BxRPjs0kezIKzjJHUGPUVmi.jpg"
-        },
-        {
-          "name": "O-T Fagbenle",
-          "character": "Brent",
-          "profile": "https://image.tmdb.org/t/p/w300/baIiZBDYpYXfG4SlonbcqyYg6l.jpg"
-        },
-        {
-          "name": "Nahéma Ricci",
-          "character": "Antoneta",
-          "profile": "https://image.tmdb.org/t/p/w300/jILgpaqqM9mGHS3ioc8Of22BA7P.jpg"
-        },
-        {
-          "name": "Tyrone Benskin",
-          "character": "Dr. Ott",
-          "profile": "https://image.tmdb.org/t/p/w300/jJ4xLfwYsK2iDL1Ge8u2FvlKCb9.jpg"
-        }
-      ],
-      "trailers": [
-        "https://www.youtube.com/watch?v=lzc2u4BBVYk",
-        "https://www.youtube.com/watch?v=SAjD2ZaNERk",
-        "https://www.youtube.com/watch?v=74I_n9X0wWI",
-        "https://www.youtube.com/watch?v=51Gt4hDfjiU",
-        "https://www.youtube.com/watch?v=pl4r3iBOb_s",
-        "https://www.youtube.com/watch?v=VrdSQSLD63Q"
-      ],
-      "source": "TMDb"
-    },
-    {
-      "id": 157336,
-      "title": "Interstellar",
-      "year": "2014",
-      "overview": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
-      "poster": "https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
-      "rating": 8.461,
-      "genres": [
-        12,
-        18,
-        878
-      ],
-      "budget": 165000000,
-      "revenue": 746606706,
-      "directors": [
-        "Christopher Nolan"
-      ],
-      "writers": [
-        "Jonathan Nolan",
-        "Christopher Nolan"
-      ],
-      "cast": [
-        {
-          "name": "Matthew McConaughey",
-          "character": "Cooper",
-          "profile": "https://image.tmdb.org/t/p/w300/lCySuYjhXix3FzQdS4oceDDrXKI.jpg"
-        },
-        {
-          "name": "Anne Hathaway",
-          "character": "Brand",
-          "profile": "https://image.tmdb.org/t/p/w300/s6tflSD20MGz04ZR2R1lZvhmC4Y.jpg"
-        },
-        {
-          "name": "Michael Caine",
-          "character": "Professor Brand",
-          "profile": "https://image.tmdb.org/t/p/w300/bVZRMlpjTAO2pJK6v90buFgVbSW.jpg"
-        },
-        {
-          "name": "Jessica Chastain",
-          "character": "Murph",
-          "profile": "https://image.tmdb.org/t/p/w300/xRvRzxiiHhgUErl0yf9w8WariRE.jpg"
-        },
-        {
-          "name": "Casey Affleck",
-          "character": "Tom",
-          "profile": "https://image.tmdb.org/t/p/w300/304ilSygaCRWykoBWAL67TOw8g9.jpg"
-        },
-        {
-          "name": "Wes Bentley",
-          "character": "Doyle",
-          "profile": "https://image.tmdb.org/t/p/w300/voD93lzFZrr9xfAggwFcPRBi84i.jpg"
-        },
-        {
-          "name": "Topher Grace",
-          "character": "Getty",
-          "profile": "https://image.tmdb.org/t/p/w300/oJQxl4DG0KSCtOGrpWNhYz9gUZA.jpg"
-        },
-        {
-          "name": "Mackenzie Foy",
-          "character": "Murph (10 Yrs.)",
-          "profile": "https://image.tmdb.org/t/p/w300/gW9BdiA9eooBWa5bzHWkV7rbTa8.jpg"
-        },
-        {
-          "name": "Ellen Burstyn",
-          "character": "Murph (older)",
-          "profile": "https://image.tmdb.org/t/p/w300/uEHZoAtCnGCXvQDHe3s3DWW2G1c.jpg"
-        },
-        {
-          "name": "John Lithgow",
-          "character": "Donald",
-          "profile": "https://image.tmdb.org/t/p/w300/8Y1sjBdnVR483S8PrnAQzlESwhx.jpg"
-        }
-      ],
-      "trailers": [
-        "https://www.youtube.com/watch?v=xGrbLfi1VJ8",
-        "https://www.youtube.com/watch?v=1GmqkGScOVY",
-        "https://www.youtube.com/watch?v=u-ElPzExvPA",
-        "https://www.youtube.com/watch?v=MCsG9zH7DJE",
-        "https://www.youtube.com/watch?v=Rvns5DaW-ug",
-        "https://www.youtube.com/watch?v=v2H1s9gj5DA",
-        "https://www.youtube.com/watch?v=60h6lpnSgck",
-        "https://www.youtube.com/watch?v=IIFd8NPCj-E",
-        "https://www.youtube.com/watch?v=PG5c2GgkA2w",
-        "https://www.youtube.com/watch?v=KlyknsTJk0w",
-        "https://www.youtube.com/watch?v=w7JZCsSD92E",
-        "https://www.youtube.com/watch?v=_F5cmjqt5I8",
-        "https://www.youtube.com/watch?v=dz_928ZO19Y",
-        "https://www.youtube.com/watch?v=Y9rdngQZfUU",
-        "https://www.youtube.com/watch?v=XsCfS5besfo",
-        "https://www.youtube.com/watch?v=w8ZOKlYBWus",
-        "https://www.youtube.com/watch?v=FaIbpwbwWQE",
-        "https://www.youtube.com/watch?v=djMep33GSt0",
-        "https://www.youtube.com/watch?v=qGYonVfG6gI",
-        "https://www.youtube.com/watch?v=7YwSoLCTbz8",
-        "https://www.youtube.com/watch?v=Pfg34mY-0gU",
-        "https://www.youtube.com/watch?v=WqNirxasldY",
-        "https://www.youtube.com/watch?v=1aT4fOdqqhM",
-        "https://www.youtube.com/watch?v=xaMN10L27pc",
-        "https://www.youtube.com/watch?v=oILbvIRsfpM",
-        "https://www.youtube.com/watch?v=fdwHVtAan38",
-        "https://www.youtube.com/watch?v=fCzvSlAnDh0",
-        "https://www.youtube.com/watch?v=nQD_erRnmBE",
-        "https://www.youtube.com/watch?v=a8wgnCdeubY",
-        "https://www.youtube.com/watch?v=oHjmheDsqZw",
-        "https://www.youtube.com/watch?v=Y6BdKtOh9x4",
-        "https://www.youtube.com/watch?v=6pzIAkVbY3M",
-        "https://www.youtube.com/watch?v=MfGfZwQ_qaY",
-        "https://www.youtube.com/watch?v=cnKpDDH9_gM",
-        "https://www.youtube.com/watch?v=gde77UF0LUQ",
-        "https://www.youtube.com/watch?v=gJEAbk44Lrk",
-        "https://www.youtube.com/watch?v=6IcgFXERGvA",
-        "https://www.youtube.com/watch?v=LY19rHKAaAg",
-        "https://www.youtube.com/watch?v=C_qBaqv7C_o",
-        "https://www.youtube.com/watch?v=R8teZZ-loaI",
-        "https://www.youtube.com/watch?v=ePbKGoIGAXY",
-        "https://www.youtube.com/watch?v=zSWdZVtXT7E",
-        "https://www.youtube.com/watch?v=827FNDpQWrQ"
-      ],
-      "source": "TMDb"
-    },
-    {
-      "id": 604079,
-      "title": "The Long Walk",
-      "year": "2025",
-      "overview": "In a dystopian, alternate-America ruled by a totalitarian regime, 50 teenage boys take part in a deadly annual walking contest, forced to maintain a minimum pace or be executed, until only one survivor remains.",
-      "poster": "https://image.tmdb.org/t/p/w500/wobVTa99eW0ht6c1rNNzLkazPtR.jpg",
-      "rating": 7.227,
-      "genres": [
-        27,
-        878,
-        53
-      ],
-      "budget": 20000000,
-      "revenue": 24747674,
-      "directors": [
-        "Francis Lawrence"
-      ],
-      "writers": [
-        "JT Mollner"
-      ],
-      "cast": [
-        {
-          "name": "Cooper Hoffman",
-          "character": "Raymond Garraty / #47",
-          "profile": "https://image.tmdb.org/t/p/w300/8Y0AfdcpgzL4SHpKjspkDFBd6zN.jpg"
-        },
-        {
-          "name": "David Jonsson",
-          "character": "Peter McVries / #23",
-          "profile": "https://image.tmdb.org/t/p/w300/2ZZNGZw57KKMrVIr27g7W16G0jV.jpg"
-        },
-        {
-          "name": "Garrett Wareing",
-          "character": "Stebbins / #38",
-          "profile": "https://image.tmdb.org/t/p/w300/fGitxzQzJWgWqEYiDECJIB8pavW.jpg"
-        },
-        {
-          "name": "Tut Nyuot",
-          "character": "Arthur Baker / #6",
-          "profile": "https://image.tmdb.org/t/p/w300/nnQCY629iCcf5veJ7pJVG6onMgC.jpg"
-        },
-        {
-          "name": "Charlie Plummer",
-          "character": "Gary Barkovitch / #5",
-          "profile": "https://image.tmdb.org/t/p/w300/u2ig0kkgxq36BMbFQ4DEWfu5G3A.jpg"
-        },
-        {
-          "name": "Ben Wang",
-          "character": "Hank Olson / #46",
-          "profile": "https://image.tmdb.org/t/p/w300/5A6JgNR9nlFVjuzJ1oOXyj2hfJo.jpg"
-        },
-        {
-          "name": "Jordan Gonzalez",
-          "character": "Richard Harkness / #49",
-          "profile": "https://image.tmdb.org/t/p/w300/moEGDOzrAkWs9W5C25RlxirroTq.jpg"
-        },
-        {
-          "name": "Joshua Odjick",
-          "character": "Collie Parker / #48",
-          "profile": "https://image.tmdb.org/t/p/w300/7z9RXNGcxTaZc1jZlk6uszvktkX.jpg"
-        },
-        {
-          "name": "Mark Hamill",
-          "character": "The Major",
-          "profile": "https://image.tmdb.org/t/p/w300/2ZulC2Ccq1yv3pemusks6Zlfy2s.jpg"
-        },
-        {
-          "name": "Roman Griffin Davis",
-          "character": "Curley / #7",
-          "profile": "https://image.tmdb.org/t/p/w300/1zQLes0vhspVA6WqYEFQEvRr4xH.jpg"
-        }
-      ],
-      "trailers": [
-        "https://www.youtube.com/watch?v=kytJK_v7_zc",
-        "https://www.youtube.com/watch?v=6imLW8qrw7I",
-        "https://www.youtube.com/watch?v=v7IrMk1uI4Q",
-        "https://www.youtube.com/watch?v=SWa5AFhTFNA",
-        "https://www.youtube.com/watch?v=767N4yiDPLU",
-        "https://www.youtube.com/watch?v=Nv58h2pMsPM",
-        "https://www.youtube.com/watch?v=DzIHL1kerZE",
-        "https://www.youtube.com/watch?v=rf53CrJYQU0",
-        "https://www.youtube.com/watch?v=Qy7PwYa9ikM",
-        "https://www.youtube.com/watch?v=eezk-Mvq9RU",
-        "https://www.youtube.com/watch?v=HtFSm8erXIw",
-        "https://www.youtube.com/watch?v=P52-4hmtRm8",
-        "https://www.youtube.com/watch?v=H4APHN-qIhs",
-        "https://www.youtube.com/watch?v=_qPSeCDhhhU",
-        "https://www.youtube.com/watch?v=iPr2u1VYiuo",
-        "https://www.youtube.com/watch?v=skV3dx1_rp4",
-        "https://www.youtube.com/watch?v=AFHLCL6IVR0",
-        "https://www.youtube.com/watch?v=peuYohpNirM",
-        "https://www.youtube.com/watch?v=iRJZIh7gO5I",
-        "https://www.youtube.com/watch?v=_BrcPjqZtkE",
-        "https://www.youtube.com/watch?v=4ehd2jHyQa4",
-        "https://www.youtube.com/watch?v=RdN8qNfOHvs",
-        "https://www.youtube.com/watch?v=kqCBPUNdvuY",
-        "https://www.youtube.com/watch?v=SLlkw61x7P4",
-        "https://www.youtube.com/watch?v=0J11K9pDlDM",
-        "https://www.youtube.com/watch?v=TSQCWFyoUHc",
-        "https://www.youtube.com/watch?v=26LSSOYjsCU",
-        "https://www.youtube.com/watch?v=ChGkD-G0RZ8",
-        "https://www.youtube.com/watch?v=zi4y5yN9UxM",
-        "https://www.youtube.com/watch?v=clFhsJQAtfc",
-        "https://www.youtube.com/watch?v=Toj3Zxun7aQ",
-        "https://www.youtube.com/watch?v=C9Skp1CyzR0",
-        "https://www.youtube.com/watch?v=EFfUb3sa5kI",
-        "https://www.youtube.com/watch?v=vAtUHeMQ1F8"
-      ],
-      "source": "TMDb"
-    },
-    {
       "id": 1022787,
       "title": "Elio",
       "year": "2025",
       "overview": "Elio, a space fanatic with an active imagination, finds himself on a cosmic misadventure where he must form new bonds with eccentric alien lifeforms, navigate a crisis of intergalactic proportions and somehow discover who he is truly meant to be.",
       "poster": "https://image.tmdb.org/t/p/w500/w2ARwtc1zoh0pyfwmyhpZHwuXgK.jpg",
-      "rating": 6.922,
+      "rating": 6.924,
       "genres": [
         16,
         10751,
@@ -2142,103 +1788,562 @@
       "source": "TMDb"
     },
     {
-      "id": 106646,
-      "title": "The Wolf of Wall Street",
-      "year": "2013",
-      "overview": "A New York stockbroker refuses to cooperate in a large securities fraud case involving corruption on Wall Street, corporate banking world and mob infiltration. Based on Jordan Belfort's autobiography.",
-      "poster": "https://image.tmdb.org/t/p/w500/kW9LmvYHAaS9iA0tHmZVq8hQYoq.jpg",
-      "rating": 8.028,
+      "id": 1233413,
+      "title": "Sinners",
+      "year": "2025",
+      "overview": "Trying to leave their troubled lives behind, twin brothers return to their hometown to start again, only to discover that an even greater evil is waiting to welcome them back.",
+      "poster": "https://image.tmdb.org/t/p/w500/4CkZl1LK6a5rXBqJB2ZP77h3N5i.jpg",
+      "rating": 7.545,
       "genres": [
-        80,
-        18,
-        35
+        27,
+        28,
+        53
       ],
-      "budget": 100000000,
-      "revenue": 407038432,
+      "budget": 90000000,
+      "revenue": 365878513,
       "directors": [
-        "Martin Scorsese"
+        "Ryan Coogler"
       ],
       "writers": [
-        "Terence Winter"
+        "Ryan Coogler"
       ],
       "cast": [
         {
-          "name": "Leonardo DiCaprio",
-          "character": "Jordan Belfort",
-          "profile": "https://image.tmdb.org/t/p/w300/wo2hJpn04vbtmh0B9utCFdsQhxM.jpg"
+          "name": "Michael B. Jordan",
+          "character": "Smoke / Stack",
+          "profile": "https://image.tmdb.org/t/p/w300/515xNvaMC6xOEOlo0sFqW69ZqUH.jpg"
         },
         {
-          "name": "Jonah Hill",
-          "character": "Donnie Azoff",
-          "profile": "https://image.tmdb.org/t/p/w300/cymlWttB83MsAGR2EkTgANtjeRH.jpg"
+          "name": "Hailee Steinfeld",
+          "character": "Mary",
+          "profile": "https://image.tmdb.org/t/p/w300/vhGGQn8TTqMrqxHhsUmA8RIYV9a.jpg"
         },
         {
-          "name": "Margot Robbie",
-          "character": "Naomi Lapaglia",
-          "profile": "https://image.tmdb.org/t/p/w300/euDPyqLnuwaWMHajcU3oZ9uZezR.jpg"
+          "name": "Miles Caton",
+          "character": "Sammie Moore",
+          "profile": "https://image.tmdb.org/t/p/w300/yff2DK1Sc2baRGHbSfcmwMwX8HW.jpg"
         },
         {
-          "name": "Matthew McConaughey",
-          "character": "Mark Hanna",
-          "profile": "https://image.tmdb.org/t/p/w300/lCySuYjhXix3FzQdS4oceDDrXKI.jpg"
+          "name": "Jack O'Connell",
+          "character": "Remmick",
+          "profile": "https://image.tmdb.org/t/p/w300/9RrqnB1BRaWWHEjlWVVAna0sdBB.jpg"
         },
         {
-          "name": "Kyle Chandler",
-          "character": "Agent Patrick Denham",
-          "profile": "https://image.tmdb.org/t/p/w300/66n7XNj1dyYkzCBWR3Lq8Vz4PJ1.jpg"
+          "name": "Wunmi Mosaku",
+          "character": "Annie",
+          "profile": "https://image.tmdb.org/t/p/w300/yWM19CjCv66MqNkwHBp6Dpvtn9x.jpg"
         },
         {
-          "name": "Rob Reiner",
-          "character": "Max Belfort",
-          "profile": "https://image.tmdb.org/t/p/w300/rcmPU3YlhHQVzZlV197qhmRsgEL.jpg"
+          "name": "Jayme Lawson",
+          "character": "Pearline",
+          "profile": "https://image.tmdb.org/t/p/w300/ntwbhdUeW8K5KYJENqyiSZcsIj9.jpg"
         },
         {
-          "name": "Jon Bernthal",
-          "character": "Brad",
-          "profile": "https://image.tmdb.org/t/p/w300/o0t6EVkJOrFAjESDilZUlf46IbQ.jpg"
+          "name": "Omar Benson Miller",
+          "character": "Cornbread",
+          "profile": "https://image.tmdb.org/t/p/w300/adlrkEpxDIcpxF7bpzMGErLxeHP.jpg"
         },
         {
-          "name": "Jon Favreau",
-          "character": "Manny Riskin",
-          "profile": "https://image.tmdb.org/t/p/w300/tnx7iMVydPQXGOoLsxXl84PXtbA.jpg"
+          "name": "Delroy Lindo",
+          "character": "Delta Slim",
+          "profile": "https://image.tmdb.org/t/p/w300/kLwUBBmEIdchrLqwsYzgLB2B6q5.jpg"
         },
         {
-          "name": "Jean Dujardin",
-          "character": "Jean Jacques Saurel",
-          "profile": "https://image.tmdb.org/t/p/w300/iPtSWWoO8vajj6fIUQLQeuGOCsk.jpg"
+          "name": "Li Jun Li",
+          "character": "Grace Chow",
+          "profile": "https://image.tmdb.org/t/p/w300/n0Pys3SLZ56nM9FmBQYMVCbf9Jf.jpg"
         },
         {
-          "name": "Joanna Lumley",
-          "character": "Aunt Emma",
-          "profile": "https://image.tmdb.org/t/p/w300/k9SDy0lQ4hQdXZz1RMnFLntMVg5.jpg"
+          "name": "Yao",
+          "character": "Bo Chow",
+          "profile": "https://image.tmdb.org/t/p/w300/hRMKy14F6zvDnwM3nRGOCVMTDmQ.jpg"
         }
       ],
       "trailers": [
-        "https://www.youtube.com/watch?v=p1Mu2ZxLzk8",
-        "https://www.youtube.com/watch?v=pzLQLpEDjvc",
-        "https://www.youtube.com/watch?v=RPORRudmQv0",
-        "https://www.youtube.com/watch?v=KoLtvLrou1U",
-        "https://www.youtube.com/watch?v=g07Xxr20L9s",
-        "https://www.youtube.com/watch?v=C2u3WtDKrS4",
-        "https://www.youtube.com/watch?v=ryp0oKu31nE",
-        "https://www.youtube.com/watch?v=vnbzFomcPwA",
-        "https://www.youtube.com/watch?v=ViEjSgM4hIs",
-        "https://www.youtube.com/watch?v=zRqWcDIZjsU",
-        "https://www.youtube.com/watch?v=tPQgPs9xaBk",
-        "https://www.youtube.com/watch?v=fzh-KSHp9lI",
-        "https://www.youtube.com/watch?v=bBgfDjimINo",
-        "https://www.youtube.com/watch?v=bC8aKUR-kKY",
-        "https://www.youtube.com/watch?v=RYUh1i4ssX0",
-        "https://www.youtube.com/watch?v=oz4TO7YxQRc",
-        "https://www.youtube.com/watch?v=KvFFE6i59ko",
-        "https://www.youtube.com/watch?v=OzGpdxdCp04",
-        "https://www.youtube.com/watch?v=FzehIddnaWU",
-        "https://www.youtube.com/watch?v=UjRCT_RuYbs",
-        "https://www.youtube.com/watch?v=FK12-2uUnEs",
-        "https://www.youtube.com/watch?v=nOlvMdfo2Fs",
-        "https://www.youtube.com/watch?v=U8FP1A3jBAk",
-        "https://www.youtube.com/watch?v=Slj4-Sv-YNA",
-        "https://www.youtube.com/watch?v=iszwuX1AK6A"
+        "https://www.youtube.com/watch?v=RxrZ4yeGgdk",
+        "https://www.youtube.com/watch?v=ELNkVGS1PJE",
+        "https://www.youtube.com/watch?v=5UZ0UAOxp58",
+        "https://www.youtube.com/watch?v=l2h2lC0vlX4",
+        "https://www.youtube.com/watch?v=S7jo5Cr6WUA",
+        "https://www.youtube.com/watch?v=z1x1YpJWIHM",
+        "https://www.youtube.com/watch?v=cDnngg3MTio",
+        "https://www.youtube.com/watch?v=s72cBC-v6UE",
+        "https://www.youtube.com/watch?v=_7cm2PqnifU",
+        "https://www.youtube.com/watch?v=wWvVQtutmVs",
+        "https://www.youtube.com/watch?v=rk_86y1j-Ag",
+        "https://www.youtube.com/watch?v=njUvSy3n9QQ",
+        "https://www.youtube.com/watch?v=8bS7mV4WNTA",
+        "https://www.youtube.com/watch?v=2H-RcmjiM8U",
+        "https://www.youtube.com/watch?v=T8DUQJ23GIA",
+        "https://www.youtube.com/watch?v=Qc7TJgK_IE0",
+        "https://www.youtube.com/watch?v=U1q4eEPg_dc",
+        "https://www.youtube.com/watch?v=YdNMK-9Ee9g",
+        "https://www.youtube.com/watch?v=uZgtm6-EMEM",
+        "https://www.youtube.com/watch?v=vzIQMqbzJu4",
+        "https://www.youtube.com/watch?v=KWD7dKqlkco",
+        "https://www.youtube.com/watch?v=Xti9gl1hhRg",
+        "https://www.youtube.com/watch?v=Zw1oPjklCJE",
+        "https://www.youtube.com/watch?v=Qy1gm4x_MB8",
+        "https://www.youtube.com/watch?v=Wx-7bYY185c",
+        "https://www.youtube.com/watch?v=0VX5KxJmQCA",
+        "https://www.youtube.com/watch?v=szyp726Fsqw",
+        "https://www.youtube.com/watch?v=Wb-diWpc94Q",
+        "https://www.youtube.com/watch?v=W7BIK_pjneo",
+        "https://www.youtube.com/watch?v=O98jSd24lmA",
+        "https://www.youtube.com/watch?v=omKG9pZLlq0",
+        "https://www.youtube.com/watch?v=YTkJVHBuR-M",
+        "https://www.youtube.com/watch?v=ZSwieTlIMy4",
+        "https://www.youtube.com/watch?v=I17wn6LRD8I",
+        "https://www.youtube.com/watch?v=rE6gJJMqplU",
+        "https://www.youtube.com/watch?v=faxeuxvJmX0",
+        "https://www.youtube.com/watch?v=DK1siQhWwHI",
+        "https://www.youtube.com/watch?v=z5qijmY1mfU",
+        "https://www.youtube.com/watch?v=rDjkfvh7rBA",
+        "https://www.youtube.com/watch?v=fY9KHEtqCGI",
+        "https://www.youtube.com/watch?v=FHGtTZ3HMoM",
+        "https://www.youtube.com/watch?v=xeJsaqC49bM",
+        "https://www.youtube.com/watch?v=4jZkmKDbtU0",
+        "https://www.youtube.com/watch?v=j1hFxZxxR6A",
+        "https://www.youtube.com/watch?v=78Ru62uFM0s",
+        "https://www.youtube.com/watch?v=lsimLHcey8Q",
+        "https://www.youtube.com/watch?v=KE7Lie5cxWA",
+        "https://www.youtube.com/watch?v=itAQolHej2k",
+        "https://www.youtube.com/watch?v=ZGa5UMhqtjo",
+        "https://www.youtube.com/watch?v=pNvJmtic2m4",
+        "https://www.youtube.com/watch?v=Qqeu5Op0Ed4",
+        "https://www.youtube.com/watch?v=wq1HRpz5KUE",
+        "https://www.youtube.com/watch?v=W_kT1HgLDXI",
+        "https://www.youtube.com/watch?v=gWTt8J5_8yk",
+        "https://www.youtube.com/watch?v=h-zFEZkoALI",
+        "https://www.youtube.com/watch?v=iPekhmH6Odc",
+        "https://www.youtube.com/watch?v=okvFCZi5B0k",
+        "https://www.youtube.com/watch?v=OZPXdxLqIc4",
+        "https://www.youtube.com/watch?v=RUTt4-fA3Ug",
+        "https://www.youtube.com/watch?v=KD4gqJmhpWE",
+        "https://www.youtube.com/watch?v=tMsDF2p-T14",
+        "https://www.youtube.com/watch?v=7joulECTx_U",
+        "https://www.youtube.com/watch?v=kvE-i_Dy1LU",
+        "https://www.youtube.com/watch?v=_AYXk93WTjQ",
+        "https://www.youtube.com/watch?v=bKGxHflevuk",
+        "https://www.youtube.com/watch?v=aweA8mygv_M"
+      ],
+      "source": "TMDb"
+    },
+    {
+      "id": 1509871,
+      "title": "She Said Maybe",
+      "year": "2025",
+      "overview": "When German-raised Mavi learns she belongs to a superrich Turkish dynasty, new family expectations quickly turn her world and love life upside down.",
+      "poster": "https://image.tmdb.org/t/p/w500/ujNDflVpoFsBqlbVt58pc7lT1WR.jpg",
+      "rating": 6.9,
+      "genres": [
+        35,
+        10749,
+        18
+      ],
+      "budget": 0,
+      "revenue": 0,
+      "directors": [
+        "The Chau Ngo",
+        "Buket Alakuş"
+      ],
+      "writers": [
+        "Ipek Zübert"
+      ],
+      "cast": [
+        {
+          "name": "Beritan Balcı",
+          "character": "Mavi",
+          "profile": "https://image.tmdb.org/t/p/w300/6S1WWlyjJLmdtRWYE10BOr11cmX.jpg"
+        },
+        {
+          "name": "Sinan Güleç",
+          "character": "Can",
+          "profile": "https://image.tmdb.org/t/p/w300/bJUBpoeFsumdKrjL0EzMdBUfuPk.jpg"
+        },
+        {
+          "name": "Serkan Çayoğlu",
+          "character": "Kent",
+          "profile": "https://image.tmdb.org/t/p/w300/ryi7hQzOvxEzuy2Vr7DC378LlhR.jpg"
+        },
+        {
+          "name": "Meral Perin",
+          "character": "Grandmother Yadigar",
+          "profile": "https://image.tmdb.org/t/p/w300/zLcX3PZDs1uI69uwXbkwsLmt4x9.jpg"
+        },
+        {
+          "name": "Caro Daur",
+          "character": "Nora",
+          "profile": "https://image.tmdb.org/t/p/w300/5PQnYWRQT0RVSZLt1iMmar8GLzW.jpg"
+        },
+        {
+          "name": "Cansu Tosun",
+          "character": "Leyla",
+          "profile": "https://image.tmdb.org/t/p/w300/l4qgUyiEcvi4v90xaaShpVD8Bzi.jpg"
+        },
+        {
+          "name": "Mehmet Ateşçi",
+          "character": "Edo",
+          "profile": "https://image.tmdb.org/t/p/w300/cGiDRsSBIipp033X4vwXBPs8kHz.jpg"
+        },
+        {
+          "name": "Ilknur Boyraz",
+          "character": "Aynur",
+          "profile": "https://image.tmdb.org/t/p/w300/ac5ts25eQ3VlayIJsnqGk8EVBAC.jpg"
+        },
+        {
+          "name": "Katja Riemann",
+          "character": "Birgit",
+          "profile": "https://image.tmdb.org/t/p/w300/waayy0jpNbxLDQ8JO1uRDng8SLF.jpg"
+        },
+        {
+          "name": "Anja Karmanski",
+          "character": "Caroline",
+          "profile": "https://image.tmdb.org/t/p/w300/5P1zw3uzR9oDEOZEIHLAQPwrcIq.jpg"
+        }
+      ],
+      "trailers": [
+        "https://www.youtube.com/watch?v=GUqTDNseybk",
+        "https://www.youtube.com/watch?v=KCFWr1Fda_0"
+      ],
+      "source": "TMDb"
+    },
+    {
+      "id": 1328803,
+      "title": "Prisoner of War",
+      "year": "2025",
+      "overview": "British RAF Wing Commander James Wright is captured by the Japanese during WWII and forced to fight in brutal hand-to-hand combat. The Japanese soldiers get more than they bargained for when Wright’s years of martial arts training in Hong Kong prove him to be a formidable opponent.",
+      "poster": "https://image.tmdb.org/t/p/w500/1XET89sjRm9mUuHXhGIlKTNd5uD.jpg",
+      "rating": 6.5,
+      "genres": [
+        28,
+        10752,
+        53,
+        36
+      ],
+      "budget": 2000000,
+      "revenue": 0,
+      "directors": [
+        "Louis Mandylor"
+      ],
+      "writers": [
+        "Marc Clebanoff"
+      ],
+      "cast": [
+        {
+          "name": "Scott Adkins",
+          "character": "James Wright",
+          "profile": "https://image.tmdb.org/t/p/w300/9NRr2a1riIn5CWn5McZLJlk4vxR.jpg"
+        },
+        {
+          "name": "Peter Shinkoda",
+          "character": "",
+          "profile": "https://image.tmdb.org/t/p/w300/lCQl28poQr4bLwqZjhryGkV73jO.jpg"
+        },
+        {
+          "name": "Michael Copon",
+          "character": "",
+          "profile": "https://image.tmdb.org/t/p/w300/i3k6kmAA3LLlPFEzkOs5hRIfwg6.jpg"
+        },
+        {
+          "name": "Donald Cerrone",
+          "character": "",
+          "profile": "https://image.tmdb.org/t/p/w300/yHRgWTQuKr5tAMeR3qTtsOQU0Jb.jpg"
+        },
+        {
+          "name": "Michael Rene Walton",
+          "character": "",
+          "profile": "https://image.tmdb.org/t/p/w300/t7yY3Cyei6hH5CVI7y2TtG1oJVX.jpg"
+        },
+        {
+          "name": "Gary Cairns",
+          "character": "",
+          "profile": "https://image.tmdb.org/t/p/w300/2J26NSBfmtborzz32ZqRpCkmr15.jpg"
+        },
+        {
+          "name": "Shane Kosugi",
+          "character": "",
+          "profile": "https://image.tmdb.org/t/p/w300/5ePVKMbW8aaI6oBtFoClJOZGpMl.jpg"
+        },
+        {
+          "name": "Masanori Mimoto",
+          "character": "",
+          "profile": "https://image.tmdb.org/t/p/w300/koSSsi2LU6gJm3S6o0OgJaxJExx.jpg"
+        },
+        {
+          "name": "Gabbi Garcia",
+          "character": "",
+          "profile": "https://image.tmdb.org/t/p/w300/ymGQhMZaNoCyXY4rNb2vDl4mKNT.jpg"
+        },
+        {
+          "name": "Sol Eugenio",
+          "character": "Japanese Soldier",
+          "profile": "https://image.tmdb.org/t/p/w300/gb7PMq9wZPM3WJJup5fWAkEOnFC.jpg"
+        }
+      ],
+      "trailers": [
+        "https://www.youtube.com/watch?v=wAz7ms25K-U",
+        "https://www.youtube.com/watch?v=GPMm5EnUC8Y",
+        "https://www.youtube.com/watch?v=mKFL8CMoCVk",
+        "https://www.youtube.com/watch?v=pr9BWYlZWlQ"
+      ],
+      "source": "TMDb"
+    },
+    {
+      "id": 575265,
+      "title": "Mission: Impossible - The Final Reckoning",
+      "year": "2025",
+      "overview": "Ethan Hunt and team continue their search for the terrifying AI known as the Entity — which has infiltrated intelligence networks all over the globe — with the world's governments and a mysterious ghost from Hunt's past on their trail. Joined by new allies and armed with the means to shut the Entity down for good, Hunt is in a race against time to prevent the world as we know it from changing forever.",
+      "poster": "https://image.tmdb.org/t/p/w500/z53D72EAOxGRqdr7KXXWp9dJiDe.jpg",
+      "rating": 7.285,
+      "genres": [
+        28,
+        12,
+        53
+      ],
+      "budget": 400000000,
+      "revenue": 598056261,
+      "directors": [
+        "Christopher McQuarrie"
+      ],
+      "writers": [
+        "Christopher McQuarrie",
+        "Erik Jendresen"
+      ],
+      "cast": [
+        {
+          "name": "Tom Cruise",
+          "character": "Ethan Hunt",
+          "profile": "https://image.tmdb.org/t/p/w300/3mShHjSQR7NXOVbdTu5rT2Qd0MN.jpg"
+        },
+        {
+          "name": "Hayley Atwell",
+          "character": "Grace",
+          "profile": "https://image.tmdb.org/t/p/w300/x57wXHexIjD2ywly9cRA4rov7cu.jpg"
+        },
+        {
+          "name": "Ving Rhames",
+          "character": "Luther Stickell",
+          "profile": "https://image.tmdb.org/t/p/w300/4gpLVNKPZlVucc4fT2fSZ7DksTK.jpg"
+        },
+        {
+          "name": "Simon Pegg",
+          "character": "Benji Dunn",
+          "profile": "https://image.tmdb.org/t/p/w300/jw8bEEoTOithyNf0qxu4Zt1yaKp.jpg"
+        },
+        {
+          "name": "Esai Morales",
+          "character": "Gabriel",
+          "profile": "https://image.tmdb.org/t/p/w300/cNYciYzUzxraGlw0BPql1QePi5H.jpg"
+        },
+        {
+          "name": "Pom Klementieff",
+          "character": "Paris",
+          "profile": "https://image.tmdb.org/t/p/w300/hfUKAI2kXTMMWjno0i4sLPJud5N.jpg"
+        },
+        {
+          "name": "Henry Czerny",
+          "character": "Kittridge",
+          "profile": "https://image.tmdb.org/t/p/w300/zOWZzRmliKf9032IOOq0a3jXhVv.jpg"
+        },
+        {
+          "name": "Holt McCallany",
+          "character": "Serling",
+          "profile": "https://image.tmdb.org/t/p/w300/nHZgHsBc8P69LFTGsDSrZYt2PmS.jpg"
+        },
+        {
+          "name": "Janet McTeer",
+          "character": "Walters",
+          "profile": "https://image.tmdb.org/t/p/w300/kl8cHLOQbwLrBfMWtAwtP4hUXFk.jpg"
+        },
+        {
+          "name": "Nick Offerman",
+          "character": "General Sidney",
+          "profile": "https://image.tmdb.org/t/p/w300/f6z3mPVtaF40ewfdmZydprAjmYd.jpg"
+        }
+      ],
+      "trailers": [
+        "https://www.youtube.com/watch?v=H0pe-7mB3gQ",
+        "https://www.youtube.com/watch?v=Wd3fzHu1UlY",
+        "https://www.youtube.com/watch?v=K5PP7igejMU",
+        "https://www.youtube.com/watch?v=yCcoCDy19Ok",
+        "https://www.youtube.com/watch?v=KVTFf-n1goA",
+        "https://www.youtube.com/watch?v=zz3gJt6BYXY",
+        "https://www.youtube.com/watch?v=o2sevWY-Ql8",
+        "https://www.youtube.com/watch?v=jDF1ianibO4",
+        "https://www.youtube.com/watch?v=AP81nzJLS-c",
+        "https://www.youtube.com/watch?v=J1IpsvgqSCE",
+        "https://www.youtube.com/watch?v=vdgK-uLsaYo",
+        "https://www.youtube.com/watch?v=D1obcN5Ud1I",
+        "https://www.youtube.com/watch?v=ZH4xXVyB8es",
+        "https://www.youtube.com/watch?v=ccxpYVTW500",
+        "https://www.youtube.com/watch?v=_z1sj-fvO9M",
+        "https://www.youtube.com/watch?v=U9XmAd0SBoc",
+        "https://www.youtube.com/watch?v=GnZl_1TdtZU",
+        "https://www.youtube.com/watch?v=61BqNhSC6SI",
+        "https://www.youtube.com/watch?v=IXLWhTJDap8",
+        "https://www.youtube.com/watch?v=94nUh1oYa90",
+        "https://www.youtube.com/watch?v=OXQzvx6-dl4",
+        "https://www.youtube.com/watch?v=kF5LHTUstwM",
+        "https://www.youtube.com/watch?v=sMvdZFhhSPA",
+        "https://www.youtube.com/watch?v=-PRwkwblhK0",
+        "https://www.youtube.com/watch?v=Zatgag3hAcI",
+        "https://www.youtube.com/watch?v=yPmjOXqj0n8",
+        "https://www.youtube.com/watch?v=Y5jqzRnVlls",
+        "https://www.youtube.com/watch?v=5rh1MEeVeJY",
+        "https://www.youtube.com/watch?v=6HDqH5Vz0oo",
+        "https://www.youtube.com/watch?v=ZnEb9VxXStw",
+        "https://www.youtube.com/watch?v=WJEOfa8bN1A",
+        "https://www.youtube.com/watch?v=-SC2K-JqCbE",
+        "https://www.youtube.com/watch?v=Y17uPH2OibE",
+        "https://www.youtube.com/watch?v=WBr8H0T0U2I",
+        "https://www.youtube.com/watch?v=zgiHoLdzDgY",
+        "https://www.youtube.com/watch?v=HkD2swou-Z4",
+        "https://www.youtube.com/watch?v=MdrQqZVBdYc",
+        "https://www.youtube.com/watch?v=CpBjp5S6Isg",
+        "https://www.youtube.com/watch?v=fkr0Yq-n0ps",
+        "https://www.youtube.com/watch?v=KubrqR8k6Jk",
+        "https://www.youtube.com/watch?v=ZpHFsPb43BE",
+        "https://www.youtube.com/watch?v=JFSSbiqEGVg",
+        "https://www.youtube.com/watch?v=2Jm6nAQ3Xho",
+        "https://www.youtube.com/watch?v=gxsJf5mfiyQ",
+        "https://www.youtube.com/watch?v=jikgCE78hOk",
+        "https://www.youtube.com/watch?v=wU55s1oBw5U",
+        "https://www.youtube.com/watch?v=O1jwU578M_o",
+        "https://www.youtube.com/watch?v=ZZgGRxOkLE4",
+        "https://www.youtube.com/watch?v=HBQL1V970f4",
+        "https://www.youtube.com/watch?v=5Z1E3G7LVDM",
+        "https://www.youtube.com/watch?v=kasYGaGPGn0",
+        "https://www.youtube.com/watch?v=G1VBfMCZVkw",
+        "https://www.youtube.com/watch?v=-CGshKxi65Q",
+        "https://www.youtube.com/watch?v=6EhclHqAJVE",
+        "https://www.youtube.com/watch?v=d5bi9Mh8cbU",
+        "https://www.youtube.com/watch?v=gWMkxyww_Ig",
+        "https://www.youtube.com/watch?v=ovj6MITtie4",
+        "https://www.youtube.com/watch?v=R57OoBLdPPI",
+        "https://www.youtube.com/watch?v=j3r6cq5B2w4",
+        "https://www.youtube.com/watch?v=72a30zGBu3c",
+        "https://www.youtube.com/watch?v=tJNOtFoKRS0",
+        "https://www.youtube.com/watch?v=oG-bdUFuf_k",
+        "https://www.youtube.com/watch?v=-I4Q84sV85s",
+        "https://www.youtube.com/watch?v=GXfl6nyltRo",
+        "https://www.youtube.com/watch?v=EyawtWcXQ9E",
+        "https://www.youtube.com/watch?v=6YTFSjKngN0",
+        "https://www.youtube.com/watch?v=61XxVlL916Y",
+        "https://www.youtube.com/watch?v=1KYyzIaejOU",
+        "https://www.youtube.com/watch?v=UtaD14f5k3E",
+        "https://www.youtube.com/watch?v=sM-jhXvkVlc",
+        "https://www.youtube.com/watch?v=Diia2XpYk3Q",
+        "https://www.youtube.com/watch?v=B6EXIfM2NVI",
+        "https://www.youtube.com/watch?v=Tbc0vBozMGU",
+        "https://www.youtube.com/watch?v=9nzJ9tq9GeY",
+        "https://www.youtube.com/watch?v=35uCfTn-M-k",
+        "https://www.youtube.com/watch?v=vGQcnZ3esvU",
+        "https://www.youtube.com/watch?v=I8snFkHGCRE",
+        "https://www.youtube.com/watch?v=EPi3KktOxx0",
+        "https://www.youtube.com/watch?v=PloDOvIUsSI",
+        "https://www.youtube.com/watch?v=J9EOvr-8Djk",
+        "https://www.youtube.com/watch?v=fsQgc9pCyDU",
+        "https://www.youtube.com/watch?v=0zGfDnNr7-o",
+        "https://www.youtube.com/watch?v=tbbRBXTBQow",
+        "https://www.youtube.com/watch?v=SgT5e8EJdjI",
+        "https://www.youtube.com/watch?v=SF6GAlmiFhM",
+        "https://www.youtube.com/watch?v=qBoyfRQoXpw",
+        "https://www.youtube.com/watch?v=-1fpv6Y6N6U",
+        "https://www.youtube.com/watch?v=NOhDyUmT9z0"
+      ],
+      "source": "TMDb"
+    },
+    {
+      "id": 1242011,
+      "title": "Together",
+      "year": "2025",
+      "overview": "With a move to the countryside already testing the limits of a couple's relationship, a supernatural encounter begins an extreme transformation of their love, their lives, and their flesh.",
+      "poster": "https://image.tmdb.org/t/p/w500/m52XidzKx94bKlToZfEXUnL3pdy.jpg",
+      "rating": 7.183,
+      "genres": [
+        27
+      ],
+      "budget": 17000000,
+      "revenue": 32273161,
+      "directors": [
+        "Michael Shanks"
+      ],
+      "writers": [
+        "Michael Shanks"
+      ],
+      "cast": [
+        {
+          "name": "Dave Franco",
+          "character": "Tim",
+          "profile": "https://image.tmdb.org/t/p/w300/2diSplvpzCE5CrIKvTaplCKvwPq.jpg"
+        },
+        {
+          "name": "Alison Brie",
+          "character": "Millie",
+          "profile": "https://image.tmdb.org/t/p/w300/A8fN4CMYFBq6nI8AuwDYZGPoXSM.jpg"
+        },
+        {
+          "name": "Damon Herriman",
+          "character": "Jamie",
+          "profile": "https://image.tmdb.org/t/p/w300/wMCYFY8qzKEvg9Jq6cQmLnHHyLl.jpg"
+        },
+        {
+          "name": "Mia Morrissey",
+          "character": "Cath",
+          "profile": "https://image.tmdb.org/t/p/w300/ml23SclsBZ5rUWTp6lI6thCiIyW.jpg"
+        },
+        {
+          "name": "Karl Richmond",
+          "character": "Jordy",
+          "profile": "https://image.tmdb.org/t/p/w300/zQ32YJZzMwAQrZ8F1Cjqc6560gh.jpg"
+        },
+        {
+          "name": "Jack Kenny",
+          "character": "Luke",
+          "profile": "https://image.tmdb.org/t/p/w300/v3A8RFnCNVloc7GIptPfSuJkhdp.jpg"
+        },
+        {
+          "name": "Francesca Waters",
+          "character": "Carol",
+          "profile": "https://image.tmdb.org/t/p/w300/z0zXS5qNuts4sJmf1KFNhmDWMIZ.jpg"
+        },
+        {
+          "name": "Aljin Abella",
+          "character": "Doctor Mendoza",
+          "profile": "https://image.tmdb.org/t/p/w300/mAsuTXH9xflaBUBYo3roUuV2bss.jpg"
+        },
+        {
+          "name": "Sarah Lang",
+          "character": "Keri",
+          "profile": ""
+        },
+        {
+          "name": "Rob Brown",
+          "character": "Chaplin",
+          "profile": ""
+        }
+      ],
+      "trailers": [
+        "https://www.youtube.com/watch?v=PMYbNyLd3AA",
+        "https://www.youtube.com/watch?v=fwZNgSZ9WJo",
+        "https://www.youtube.com/watch?v=bVNoH4awygU",
+        "https://www.youtube.com/watch?v=ZdfBsq3jsV8",
+        "https://www.youtube.com/watch?v=1-oHgiWfhl0",
+        "https://www.youtube.com/watch?v=zLcoWwO5lLs",
+        "https://www.youtube.com/watch?v=kz4v1ksR5rE",
+        "https://www.youtube.com/watch?v=Hlp6XrVEwUU",
+        "https://www.youtube.com/watch?v=iUCjdqIlEuY",
+        "https://www.youtube.com/watch?v=9bqIwMH3En8",
+        "https://www.youtube.com/watch?v=rF5FJoXnZNU",
+        "https://www.youtube.com/watch?v=RZeIcTf1ZDU",
+        "https://www.youtube.com/watch?v=FeVLN9RUZYE",
+        "https://www.youtube.com/watch?v=kRVvguqxApk",
+        "https://www.youtube.com/watch?v=ufhTQwsWDL0",
+        "https://www.youtube.com/watch?v=tST7O8Fq_Vo",
+        "https://www.youtube.com/watch?v=v4Xu-jxRG5c",
+        "https://www.youtube.com/watch?v=Pb9tln--Ajs",
+        "https://www.youtube.com/watch?v=Kc7PGPNhz00"
       ],
       "source": "TMDb"
     },
@@ -5435,102 +5540,102 @@
       "source": "TVMaze"
     },
     {
-      "title": "Two Weeks in Another Town",
+      "title": "The Children of Sanchez",
       "poster": "",
       "source": "Wikidata"
     },
     {
-      "title": "Hachi: A Dog's Tale",
+      "title": "Reap the Wild Wind",
+      "poster": "http://commons.wikimedia.org/wiki/Special:FilePath/Reap%20the%20Wild%20Wind%20trailer%20screenshot.jpg",
+      "source": "Wikidata"
+    },
+    {
+      "title": "On the Town",
+      "poster": "http://commons.wikimedia.org/wiki/Special:FilePath/On%20the%20Town%20%281949%20poster%29%20crop.jpg",
+      "source": "Wikidata"
+    },
+    {
+      "title": "Soldier Boyz",
       "poster": "",
       "source": "Wikidata"
     },
     {
-      "title": "Arsenic and Old Lace",
-      "poster": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Adair%20Josephine%20Hull%20Cary%20Grant%20Arsenic%20and%20Old%20Lace%201944.jpg",
+      "title": "The Nutty Professor",
+      "poster": "http://commons.wikimedia.org/wiki/Special:FilePath/Der%20verr%C3%BCckte%20Professor%201963%20Logo.png",
       "source": "Wikidata"
     },
     {
-      "title": "Johnny Guitar",
-      "poster": "http://commons.wikimedia.org/wiki/Special:FilePath/Johnny%20guitar.jpg",
-      "source": "Wikidata"
-    },
-    {
-      "title": "The Mortal Instruments: City of Bones",
+      "title": "Incident at Loch Ness",
       "poster": "",
       "source": "Wikidata"
     },
     {
-      "title": "Barbara Frietchie",
+      "title": "The Hunt",
       "poster": "",
       "source": "Wikidata"
     },
     {
-      "title": "Endangered Species",
+      "title": "Map of the Human Heart",
       "poster": "",
       "source": "Wikidata"
     },
     {
-      "title": "Sex Is Comedy",
+      "title": "Lincoln",
       "poster": "",
       "source": "Wikidata"
     },
     {
-      "title": "Heading South",
+      "title": "That's My Boy",
       "poster": "",
       "source": "Wikidata"
     },
     {
-      "title": "Three Seasons",
+      "title": "Yor-yor",
       "poster": "",
       "source": "Wikidata"
     },
     {
-      "title": "Varudu",
+      "title": "Cold Sweat",
       "poster": "",
       "source": "Wikidata"
     },
     {
-      "title": "Stash House",
+      "title": "My Boss",
       "poster": "",
       "source": "Wikidata"
     },
     {
-      "title": "The Escort",
+      "title": "916",
       "poster": "",
       "source": "Wikidata"
     },
     {
-      "title": "Small Cuts",
+      "title": "Red Sun",
       "poster": "",
       "source": "Wikidata"
     },
     {
-      "title": "Fat Girl",
+      "title": "Domino",
       "poster": "",
       "source": "Wikidata"
     },
     {
-      "title": "The Pleasure Is All Mine",
+      "title": "Be Like Others",
       "poster": "",
       "source": "Wikidata"
     },
     {
-      "title": "Anatomy of Hell",
+      "title": "Nothing like the Holidays",
       "poster": "",
       "source": "Wikidata"
     },
     {
-      "title": "Planet of the Apes",
-      "poster": "http://commons.wikimedia.org/wiki/Special:FilePath/Heston%20and%20harrison%20planet%20of%20the%20apes.jpg",
-      "source": "Wikidata"
-    },
-    {
-      "title": "Son of the Bride",
+      "title": "To Die like a Man",
       "poster": "",
       "source": "Wikidata"
     },
     {
-      "title": "The Upside of Anger",
+      "title": "Dead like Me: Life After Death",
       "poster": "",
       "source": "Wikidata"
     }
