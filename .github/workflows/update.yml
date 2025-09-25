@@ -2,9 +2,16 @@ name: Auto Movie Metadata Update
 
 on:
   schedule:
-    # Ye cron schedule har din UTC time ke 2:00 AM pe run karega
-    - cron: '0 2 * * *'
-  workflow_dispatch: # Manual run option
+    # Urdu: Har 15 minutes baad yeh workflow apne aap chalega
+    # English: Automatically run every 15 minutes
+    - cron: '*/15 * * * *'
+  workflow_dispatch: # Urdu: Manual run ka option | English: Manual run trigger
+
+# Urdu: Concurrency ensure karta hai ke runs overlap na karein. Agar ek run chal raha ho to naya run queue ho jayega.
+# English: Concurrency prevents overlapping runs. New runs are queued until the current one finishes.
+concurrency:
+  group: update-metadata
+  cancel-in-progress: false
 
 jobs:
   update-metadata:
@@ -19,22 +26,37 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Install Dependencies
+      - name: Install Dependencies # Urdu: Zaroori packages install karein | English: Install required packages
         run: |
           python -m pip install --upgrade pip
           pip install requests
 
-      - name: Run Movie Metadata Script
+      - name: Run Movie Metadata Script # Urdu: Script run kar ke movies.json generate kare | English: Run script to generate movies.json
         env:
+          # Urdu: In secrets ko repo Settings > Secrets and variables > Actions me add karein
+          # English: Add these in repo Settings > Secrets and variables > Actions
+          #   - TMDB_API_KEY: Your TMDb v3 API Key
+          #   - TMDB_ACCESS_TOKEN: Your TMDb v4 Access Token (Bearer)
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
           TMDB_ACCESS_TOKEN: ${{ secrets.TMDB_ACCESS_TOKEN }}
+
+          # Optional tuning ENV (uncomment to override defaults)
+          # Urdu: Per run har category me kitni pages fetch karni
+          # English: How many pages to fetch per category per run
+          # PAGES_PER_CATEGORY: "30"
+
+          # Urdu: Har request ke beech wait (ms) taake rate-limits hit na hon
+          # English: Sleep (ms) between requests to respect rate limits
+          # SLEEP_MS: "200"
         run: |
           python update_data.py
 
-      - name: Commit & Push Changes
+      - name: Commit & Push Changes # Urdu: Output files repo me commit/push karo | English: Commit/push output files
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
-          git add movies.json
-          git commit -m "Automated movie metadata update"
+          # Urdu: Gzip file chhoti hoti hai is liye download fast hota hai
+          # English: Gzipped file is smaller for faster downloads
+          git add movies.json movies.json.gz
+          git commit -m "Automated movie metadata update (with gzip)" || echo "No changes to commit"
           git push
