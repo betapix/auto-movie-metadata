@@ -507,16 +507,15 @@ def fetch_wikidata(limit=50):
                 res.raise_for_status()
                 
                 data = res.json()
-        movies = []
+                movies = []
                 for item in data.get("results", {}).get("bindings", []):
-            movies.append({
-                "title": item.get("movieLabel", {}).get("value") or "N/A",
-                "poster": item.get("poster", {}).get("value") or "",
-                "source": "Wikidata"
-            })
-                
+                    movies.append({
+                        "title": item.get("movieLabel", {}).get("value") or "N/A",
+                        "poster": item.get("poster", {}).get("value") or "",
+                        "source": "Wikidata"
+                    })
                 print(f"[Wikidata] Successfully fetched {len(movies)} movies")
-        return movies
+                return movies
                 
             except requests.exceptions.Timeout:
                 print(f"[Wikidata Timeout] Attempt {attempt+1} - Request timed out after 120s")
@@ -615,8 +614,8 @@ def main():
     }
 
     try:
-    with open("movies.json", "w", encoding="utf-8") as f:
-        json.dump(output, f, ensure_ascii=False, indent=2)
+        with open("movies.json", "w", encoding="utf-8") as f:
+            json.dump(output, f, ensure_ascii=False, indent=2)
 
         # Also write compressed JSON for faster downloads
         with gzip.open("movies.json.gz", "wt", encoding="utf-8") as f:
