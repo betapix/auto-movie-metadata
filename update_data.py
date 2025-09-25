@@ -122,20 +122,20 @@ def fetch_tmdb():
                     continue
 
                 page_movies = []
-        for movie in res.json().get("results", []):
-            release_date = movie.get("release_date")
-            year = release_date[:4] if release_date else "N/A"
-            movie_id = movie.get("id")
+                for movie in res.json().get("results", []):
+                    release_date = movie.get("release_date")
+                    year = release_date[:4] if release_date else "N/A"
+                    movie_id = movie.get("id")
 
-            try:
+                    try:
                         # Movie details with retry logic
                         details = None
                         for attempt in range(2):
                             try:
-                details = requests.get(
-                    f"https://api.themoviedb.org/3/movie/{movie_id}?api_key={TMDB_API_KEY}&append_to_response=watch/providers",
+                                details = requests.get(
+                                    f"https://api.themoviedb.org/3/movie/{movie_id}?api_key={TMDB_API_KEY}&append_to_response=watch/providers",
                                     timeout=60
-                ).json()
+                                ).json()
                                 break
                             except Exception as e:
                                 print(f"[TMDb Details Retry {attempt+1}] {movie.get('title')}: {e}")
@@ -149,10 +149,10 @@ def fetch_tmdb():
                         credits = None
                         for attempt in range(2):
                             try:
-                credits = requests.get(
-                    f"https://api.themoviedb.org/3/movie/{movie_id}/credits?api_key={TMDB_API_KEY}",
+                                credits = requests.get(
+                                    f"https://api.themoviedb.org/3/movie/{movie_id}/credits?api_key={TMDB_API_KEY}",
                                     timeout=60
-                ).json()
+                                ).json()
                                 break
                             except Exception as e:
                                 print(f"[TMDb Credits Retry {attempt+1}] {movie.get('title')}: {e}")
@@ -162,102 +162,102 @@ def fetch_tmdb():
                         if not credits:
                             credits = {"cast": [], "crew": []}
 
-                cast_list = [
-                    {
-                        "name": c.get("name"),
-                        "character": c.get("character"),
-                        "profile": f"https://image.tmdb.org/t/p/w300{c.get('profile_path')}" if c.get("profile_path") else ""
-                    }
-                    for c in credits.get("cast", [])[:10]
-                ]
+                        cast_list = [
+                            {
+                                "name": c.get("name"),
+                                "character": c.get("character"),
+                                "profile": f"https://image.tmdb.org/t/p/w300{c.get('profile_path')}" if c.get("profile_path") else ""
+                            }
+                            for c in credits.get("cast", [])[:10]
+                        ]
 
-                directors = [
-                    c.get("name") for c in credits.get("crew", [])
-                    if c.get("job") == "Director"
-                ]
+                        directors = [
+                            c.get("name") for c in credits.get("crew", [])
+                            if c.get("job") == "Director"
+                        ]
 
-                writers = [
-                    c.get("name") for c in credits.get("crew", [])
-                    if c.get("job") in ["Writer", "Screenplay", "Story"]
-                ]
+                        writers = [
+                            c.get("name") for c in credits.get("crew", [])
+                            if c.get("job") in ["Writer", "Screenplay", "Story"]
+                        ]
 
-                    # Trailers with retry logic (dedupe and cap: prefer official YouTube, max 2)
-                    trailers = []
-                    for attempt in range(2):
-                        try:
-                videos = requests.get(
-                    f"https://api.themoviedb.org/3/movie/{movie_id}/videos?api_key={TMDB_API_KEY}",
-                                timeout=60
-                            ).json().get("results", [])
+                        # Trailers with retry logic (dedupe and cap: prefer official YouTube, max 2)
+                        trailers = []
+                        for attempt in range(2):
+                            try:
+                                videos = requests.get(
+                                    f"https://api.themoviedb.org/3/movie/{movie_id}/videos?api_key={TMDB_API_KEY}",
+                                    timeout=60
+                                ).json().get("results", [])
 
-                            def trailer_priority(v):
-                                # Higher is better
-                                is_youtube = 1 if v.get("site") == "YouTube" else 0
-                                is_official = 1 if v.get("official") else 0
-                                name = (v.get("name") or "").lower()
-                                name_bonus = 1 if "official trailer" in name else 0
-                                type_val = v.get("type") or ""
-                                type_rank = {"Trailer": 3, "Teaser": 2, "Clip": 1}.get(type_val, 0)
-                                date = v.get("published_at") or ""
-                                return (is_youtube, is_official, name_bonus, type_rank, date)
+                                def trailer_priority(v):
+                                    # Higher is better
+                                    is_youtube = 1 if v.get("site") == "YouTube" else 0
+                                    is_official = 1 if v.get("official") else 0
+                                    name = (v.get("name") or "").lower()
+                                    name_bonus = 1 if "official trailer" in name else 0
+                                    type_val = v.get("type") or ""
+                                    type_rank = {"Trailer": 3, "Teaser": 2, "Clip": 1}.get(type_val, 0)
+                                    date = v.get("published_at") or ""
+                                    return (is_youtube, is_official, name_bonus, type_rank, date)
 
-                            # Sort by priority and pick top 2 unique URLs
-                            sorted_videos = sorted(videos, key=trailer_priority, reverse=True)
-                            seen = set()
-                            for v in sorted_videos:
-                                url = None
-                                if v.get("site") == "YouTube" and v.get("key"):
-                                    url = f"https://www.youtube.com/watch?v={v.get('key')}"
-                                elif v.get("url"):
-                                    url = v.get("url")
-                                if not url or url in seen:
-                                    continue
-                                seen.add(url)
-                                trailers.append(url)
-                                if len(trailers) >= 2:
-                                    break
-                            break
-                        except Exception as e:
-                            print(f"[TMDb Videos Retry {attempt+1}] {movie.get('title')}: {e}")
-                            if attempt < 1:
-                                time.sleep(3)
+                                # Sort by priority and pick top 2 unique URLs
+                                sorted_videos = sorted(videos, key=trailer_priority, reverse=True)
+                                seen = set()
+                                for v in sorted_videos:
+                                    url = None
+                                    if v.get("site") == "YouTube" and v.get("key"):
+                                        url = f"https://www.youtube.com/watch?v={v.get('key')}"
+                                    elif v.get("url"):
+                                        url = v.get("url")
+                                    if not url or url in seen:
+                                        continue
+                                    seen.add(url)
+                                    trailers.append(url)
+                                    if len(trailers) >= 2:
+                                        break
+                                break
+                            except Exception as e:
+                                print(f"[TMDb Videos Retry {attempt+1}] {movie.get('title')}: {e}")
+                                if attempt < 1:
+                                    time.sleep(3)
 
-                # Currency sign
-                country_code = details.get("production_countries")[0]["iso_3166_1"] if details.get("production_countries") else "US"
-                currency_symbol = CURRENCY_MAP.get(country_code, "$")
+                        # Currency sign
+                        country_code = details.get("production_countries")[0]["iso_3166_1"] if details.get("production_countries") else "US"
+                        currency_symbol = CURRENCY_MAP.get(country_code, "$")
 
-                # OTT providers
-                providers = details.get("watch/providers", {}).get("results", {})
+                        # OTT providers
+                        providers = details.get("watch/providers", {}).get("results", {})
 
                         page_movies.append({
-                    "id": movie_id,
-                    "title": movie.get("title"),
-                    "year": year,
-                    "overview": movie.get("overview") or "",
-                    "poster": f"https://image.tmdb.org/t/p/w500{movie.get('poster_path')}" if movie.get("poster_path") else "",
-                    "rating": movie.get("vote_average") or None,
-                    "genres": [g["name"] if isinstance(g, dict) else g for g in details.get("genres", [])],
-                    "budget": f"{currency_symbol}{details.get('budget', 0):,}" if details.get("budget") else None,
-                    "revenue": f"{currency_symbol}{details.get('revenue', 0):,}" if details.get("revenue") else None,
-                    "directors": directors,
-                    "writers": writers,
-                    "cast": cast_list,
-                    "trailers": trailers,
-                    "networks": [n["name"] for n in details.get("networks", [])],
-                    "origin_country": country_code,
-                    "providers": providers,
-                    "production_companies": [pc["name"] for pc in details.get("production_companies", [])],
-                            "category": category,  # Add category information
-                    "source": "TMDb"
-                })
+                            "id": movie_id,
+                            "title": movie.get("title"),
+                            "year": year,
+                            "overview": movie.get("overview") or "",
+                            "poster": f"https://image.tmdb.org/t/p/w500{movie.get('poster_path')}" if movie.get("poster_path") else "",
+                            "rating": movie.get("vote_average") or None,
+                            "genres": [g["name"] if isinstance(g, dict) else g for g in details.get("genres", [])],
+                            "budget": f"{currency_symbol}{details.get('budget', 0):,}" if details.get("budget") else None,
+                            "revenue": f"{currency_symbol}{details.get('revenue', 0):,}" if details.get("revenue") else None,
+                            "directors": directors,
+                            "writers": writers,
+                            "cast": cast_list,
+                            "trailers": trailers,
+                            "networks": [n["name"] for n in details.get("networks", [])],
+                            "origin_country": country_code,
+                            "providers": providers,
+                            "production_companies": [pc["name"] for pc in details.get("production_companies", [])],
+                            "category": category,
+                            "source": "TMDb"
+                        })
 
-            except Exception as e:
-                print(f"[TMDb Movie Error] {movie.get('title')} ({movie_id}): {e}")
+                    except Exception as e:
+                        print(f"[TMDb Movie Error] {movie.get('title')} ({movie_id}): {e}")
 
                 category_movies.extend(page_movies)
                 print(f"[INFO] {category} Page {page}: {len(page_movies)} movies fetched")
 
-    except Exception as e:
+            except Exception as e:
                 print(f"[TMDb {category} Page {page} Error] {e}")
 
         all_movies.extend(category_movies)
